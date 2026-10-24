@@ -1,0 +1,230 @@
+{
+ "voice": "Serena",
+ "items": {
+  "93598d1c793d": {
+   "file": "2026-10-19/93598d1c793d.m4a",
+   "dur": 84.1,
+   "title": "The Information：本月新模型扎堆，Anthropic 新模型、Gemini 4 Carbon、OpenAI 新 Terra 都在路上"
+  },
+  "3deb2a61caf4": {
+   "file": "2026-10-19/3deb2a61caf4.m4a",
+   "dur": 60.5,
+   "title": "GPT-6.1 Terra 出现在微软的一个 PR 里，18 个评测配置从 GPT-5.6 Terra 改了过去"
+  },
+  "a27149849e0b": {
+   "file": "2026-10-19/a27149849e0b.m4a",
+   "dur": 67.6,
+   "title": "（续）The Information：Cursor 工程师查过，客户和合作方的机密数据是否在 Grok Bot 测试期间流向了 SpaceX 的 AI 部门"
+  },
+  "e1b00c3e15d5": {
+   "file": "2026-10-19/e1b00c3e15d5.m4a",
+   "dur": 43.9,
+   "title": "（续）The Information：OpenAI 在谈复活 Sora，同时加码机器人、创作者工具和个人设备"
+  },
+  "920485aeb28a": {
+   "file": "2026-10-19/920485aeb28a.m4a",
+   "dur": 51.1,
+   "title": "@iruletheworldmo：「刚看了个 demo，会改变整个 AI 格局，今年内发布，别问，NDA」"
+  },
+  "92bfa4499988": {
+   "file": "2026-10-19/92bfa4499988.m4a",
+   "dur": 64.8,
+   "title": "有人转述 Anthropic「内部证词」：最早明年让 Claude 接管全部研究，一位对齐研究员私下估计有 5% 风险"
+  },
+  "261232cce515": {
+   "file": "2026-10-19/261232cce515.m4a",
+   "dur": 59.8,
+   "title": "国内某大厂疯狂找供应商代充 Claude 账号，只为攒够 Claude Max？"
+  },
+  "44a23786766f": {
+   "file": "2026-10-19/44a23786766f.m4a",
+   "dur": 62.5,
+   "title": "@petergyang 称 X 上回复机器人在 @nikitabier 离开后明显恶化，Musk 回「Working on it」"
+  },
+  "5841dc3be052": {
+   "file": "2026-10-19/5841dc3be052.m4a",
+   "dur": 51.6,
+   "title": "Anthropic 的 Jason D. Clinton：当年离开 Google 来 Anthropic，主因就是这类捐股承诺"
+  },
+  "5a087aed603b": {
+   "file": "2026-10-19/5a087aed603b.m4a",
+   "dur": 55.4,
+   "title": "Manus 实习生招聘：周四下午面试，周五交作品，周六发 offer"
+  },
+  "8fff86c9a223": {
+   "file": "2026-10-19/8fff86c9a223.m4a",
+   "dur": 133.9,
+   "title": "（续）LeCun 与 Musk 在新 Roadster 上继续互怼：放屁段子加一篇「我有两辆 Tesla」长帖"
+  },
+  "29469866e00d": {
+   "file": "2026-10-19/29469866e00d.m4a",
+   "dur": 105.4,
+   "title": "（续）OpenCode 被持续攻击，防守用的前沿模型反而拒绝帮忙；Sacks 借机批评集中式安全，OpenAI 送上 Daybreak Blue"
+  },
+  "127c30e55a42": {
+   "file": "2026-10-19/127c30e55a42.m4a",
+   "dur": 109.9,
+   "title": "「direct distributions to specific populations」：Anthropic 基金到底发给谁？Curran 读成全球 UBI，评论区不买账"
+  },
+  "26f3333ac129": {
+   "file": "2026-10-19/26f3333ac129.m4a",
+   "dur": 76.9,
+   "title": "@theo 否认「叫人藏起 T3 Code 的低分」，称自己还出钱请对方做真正的基准"
+  },
+  "18eeb069f565": {
+   "file": "2026-10-19/18eeb069f565.m4a",
+   "dur": 42.8,
+   "title": "（续）The Information：OpenAI 放出 300 多个「AI 解出的数学结果」，密码学家警觉"
+  },
+  "fd4a0785ff75": {
+   "file": "2026-10-19/fd4a0785ff75.m4a",
+   "dur": 70.9,
+   "title": "Anthropic 在备 Claude 个人理财功能：走 Plaid 接银行数据，开发期叫「Claude Money」，Curran 称之为 Claude Monet"
+  },
+  "d009631badcd": {
+   "file": "2026-10-19/d009631badcd.m4a",
+   "dur": 47.6,
+   "title": "MiniMax-M3.1-Flash 要来了：API 文档先露出，官方发「Space Bunny」预告"
+  },
+  "d87f6243988f": {
+   "file": "2026-10-19/d87f6243988f.m4a",
+   "dur": 129.7,
+   "title": "（续）DeepSeek V4.1-Flash-1017：Vals 开源第一，teortaxesTex 称是「经济档的前沿级开源模型」，V4.1 Pro 迟迟未出引发猜测"
+  },
+  "3551089894bb": {
+   "file": "2026-10-19/3551089894bb.m4a",
+   "dur": 77.1,
+   "title": "Tibo 的「Day 14」：桌面应用终于能编辑线程里的历史消息，还说有人在街上找 TA 要「重置」"
+  },
+  "85f6f6969d15": {
+   "file": "2026-10-19/85f6f6969d15.m4a",
+   "dur": 79.1,
+   "title": "Google 与 Inferact 首次提交 TPUv7 跑 Kimi K3（2.8T）的成绩，SemiAnalysis 称每 TCO 性能已能对打 GB200 NVL72"
+  },
+  "d5ab53438584": {
+   "file": "2026-10-19/d5ab53438584.m4a",
+   "dur": 63.7,
+   "title": "Anthropic 的 Jascha Sohl-Dickstein 对博士生说：「你们的职业规划已经不存在了」"
+  },
+  "48ec37efbc0e": {
+   "file": "2026-10-19/48ec37efbc0e.m4a",
+   "dur": 97.8,
+   "title": "Ethan Mollick 四连发：Claude 改不了邮箱、网站在封 agent、反对 IBM 旧幻灯片、STATA 技能过时"
+  },
+  "31d77a32a39a": {
+   "file": "2026-10-19/31d77a32a39a.m4a",
+   "dur": 82.2,
+   "title": "@natolambert：用模型做幻灯片和长内容设计，让人觉得「AGI 还要一阵」；读者骂有声书是廉价 AI 朗读，被甩锅给出版社"
+  },
+  "7d56adb624b2": {
+   "file": "2026-10-19/7d56adb624b2.m4a",
+   "dur": 51.6,
+   "title": "@scaling01：「几乎没人真正 AGI-pilled」，人们总爱拿过去的技术类比 AI"
+  },
+  "885948407da9": {
+   "file": "2026-10-19/885948407da9.m4a",
+   "dur": 50.1,
+   "title": "Musk：明年起给美国每个孩子一股 SpaceX 股份，「这只是第一批」"
+  },
+  "749199335c9e": {
+   "file": "2026-10-19/749199335c9e.m4a",
+   "dur": 66.2,
+   "title": "Anthropic 可解释性研究员 Emmanuel Ameisen：「我们做的事更像生物学，不像工程」"
+  },
+  "2183e702c9ef": {
+   "file": "2026-10-19/2183e702c9ef.m4a",
+   "dur": 81.5,
+   "title": "Anthropic 官宣 Public Benefit Fund：先拨 5% 股份，估值每涨 50% 可再追加最多 2%，Jack Clark 称总计约 20%"
+  },
+  "697026584958": {
+   "file": "2026-10-19/697026584958.m4a",
+   "dur": 42.1,
+   "title": "The Information：微软一年将付 Anthropic 超过 20 亿美元驱动 Copilot，同时却在越来越多地换成 OpenAI 模型来省钱"
+  },
+  "7d83effec40d": {
+   "file": "2026-10-19/7d83effec40d.m4a",
+   "dur": 56.7,
+   "title": "The Information：模型更强不一定换来更多使用，10 分的智能优势现在只带来 20% 的开发者流量"
+  },
+  "94cadb7af762": {
+   "file": "2026-10-19/94cadb7af762.m4a",
+   "dur": 44.8,
+   "title": "The Information：ChatGPT 广告点击价约 5 美元，某些企业软件广告主对比 Google 的 30–50 美元"
+  },
+  "0008909a33dc": {
+   "file": "2026-10-19/0008909a33dc.m4a",
+   "dur": 63.0,
+   "title": "The Information 的 Cognition 三连：给工程师的 token 效率打分，神秘投资人再被推送，Replit 借 Antithesis 测 AI 代码"
+  },
+  "a9ed13d3d10e": {
+   "file": "2026-10-19/a9ed13d3d10e.m4a",
+   "dur": 106.6,
+   "title": "LobsterAI 第二期《中国办公 Agent 用户行为报告》：微信是最大入口，缓存策略让成本差七倍多"
+  },
+  "c59223ce449d": {
+   "file": "2026-10-19/c59223ce449d.m4a",
+   "dur": 70.0,
+   "title": "Claude Code 团队公开审代码的做法：九成代码由 Claude 写，撤回比例反而降了四成多；宝玉感叹两个 AI 互审 50 多轮"
+  },
+  "3aa37039b1ad": {
+   "file": "2026-10-19/3aa37039b1ad.m4a",
+   "dur": 42.5,
+   "title": "DHH 回复「我把所有 Claude Code 用量都走 Tailscale」，被中文圈 AI 博主笑称「很懂了」"
+  },
+  "6074b9e37c63": {
+   "file": "2026-10-19/6074b9e37c63.m4a",
+   "dur": 60.7,
+   "title": "BtreeWw：在 Dota2 板块发 AI 做的 HD2D 渲染器，多数人支持，少数人喊「浪费了 5000 升净水」，部分帖子因「禁止 AI」被移除"
+  },
+  "d222fcf38219": {
+   "file": "2026-10-19/d222fcf38219.m4a",
+   "dur": 83.4,
+   "title": "@aleabitoreddit：$MSFT 退出 NScale 合同对 Neocloud 其实是利好，$NBIS 甚至 $IREN 受益"
+  },
+  "1f5bf3b0c5f6": {
+   "file": "2026-10-19/1f5bf3b0c5f6.m4a",
+   "dur": 96.0,
+   "title": "@aleabitoreddit：$AAOI 按披露产能推算营收，市值 $6.8B，但「H1 2027 拐点」前自己选择等"
+  },
+  "23daa55c4799": {
+   "file": "2026-10-19/23daa55c4799.m4a",
+   "dur": 49.5,
+   "title": "FundaAI：$META Preview 分析 ChatGPT 对广告行业的影响"
+  },
+  "1664ac66f24e": {
+   "file": "2026-10-19/1664ac66f24e.m4a",
+   "dur": 59.2,
+   "title": "SemiAnalysis：2027 数据中心「加速之年」，单年新增 50GW，已签 1.3T 租约，短缺可能转向芯片"
+  },
+  "6283a2f56983": {
+   "file": "2026-10-19/6283a2f56983.m4a",
+   "dur": 48.5,
+   "title": "@staypinkyup：只发了 $SPCX 和一句「马圣😭」"
+  },
+  "a13b3ab67a0b": {
+   "file": "2026-10-19/a13b3ab67a0b.m4a",
+   "dur": 76.0,
+   "title": "假如让 Tibo 来发 DeepSeek 新模型：第一天提速，第二天重置，第六天发重置卡"
+  },
+  "aec0187f224f": {
+   "file": "2026-10-19/aec0187f224f.m4a",
+   "dur": 46.6,
+   "title": "「Biblically accurate Dario and Wenfeng」：Claude 与 DeepSeek 被画成两位少女"
+  },
+  "31bcb08ac93f": {
+   "file": "2026-10-19/31bcb08ac93f.m4a",
+   "dur": 50.1,
+   "title": "「安全对齐 be like」：GPT 看到验证码就撂挑子，DeepSeek 自己用视觉过了"
+  },
+  "7134a5c61991": {
+   "file": "2026-10-19/7134a5c61991.m4a",
+   "dur": 53.2,
+   "title": "Musk 一天两发：「租 AI/SI 算力是什么体验」和 Mace Windu 掉出窗外"
+  },
+  "75bbdcdec36a": {
+   "file": "2026-10-19/75bbdcdec36a.m4a",
+   "dur": 69.2,
+   "title": "「某某团队泄露了提示词」体：Grok Bot 的二脑、AI 交易 agent 都有人「泄露」"
+  }
+ }
+}

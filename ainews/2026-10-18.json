@@ -1,0 +1,195 @@
+{
+ "voice": "Serena",
+ "items": {
+  "412f673a999a": {
+   "file": "2026-10-18/412f673a999a.m4a",
+   "dur": 60.5,
+   "title": "OpenAI API 里短暂冒出 aurora-red/green/blue-alpha 三个模型名，随后被撤，Arena 里测出来像图像模型"
+  },
+  "dd30a6898a64": {
+   "file": "2026-10-18/dd30a6898a64.m4a",
+   "dur": 68.2,
+   "title": "有人称 aurora 是 GPT-6.1 Astra 的不同尺寸，真正的前沿模型 GPT-6.5 Bell 年底前发布"
+  },
+  "5a52068144b2": {
+   "file": "2026-10-18/5a52068144b2.m4a",
+   "dur": 52.3,
+   "title": "OpenAI 称在办公室发现隐藏录音设备，用自家模型追到一名员工，FBI 已抓人"
+  },
+  "575e5ff949f8": {
+   "file": "2026-10-18/575e5ff949f8.m4a",
+   "dur": 52.2,
+   "title": "The Information：OpenAI 在谈通过一家新公司「复活」Sora，还在早期接触收购安全公司 Trail of Bits"
+  },
+  "3fbcd5b1f976": {
+   "file": "2026-10-18/3fbcd5b1f976.m4a",
+   "dur": 72.0,
+   "title": "（续）OpenAI 放出 300 多项 AI 解出的数学结果，密码学圈警觉；Claude 追溯 NIST ECDSA 曲线种子"
+  },
+  "2737d7992ab0": {
+   "file": "2026-10-18/2737d7992ab0.m4a",
+   "dur": 46.6,
+   "title": "OpenAI 广告业务 8 月底年化收入达 10 亿美元，但可能完不成 2026 目标，正在降价并大量从 Meta 招人"
+  },
+  "ad3ed5e802c0": {
+   "file": "2026-10-18/ad3ed5e802c0.m4a",
+   "dur": 77.5,
+   "title": "Anthropic 内部报告引发「初级岗位消失」讨论，有人称 2027 年前将停招技术初级岗"
+  },
+  "903fc1a3945c": {
+   "file": "2026-10-18/903fc1a3945c.m4a",
+   "dur": 66.7,
+   "title": "DeepSeek-V4.1-Flash-1017 被指「像 GPT」：@scaling01 用自称和指纹两招质疑蒸馏"
+  },
+  "7bf3b7d46e64": {
+   "file": "2026-10-18/7bf3b7d46e64.m4a",
+   "dur": 72.8,
+   "title": "OpenCode 披露「大规模蒸馏攻击」导致 1.4% 控制台用户受影响，@natolambert 质疑这个词用得不对"
+  },
+  "fd0fb558d7ba": {
+   "file": "2026-10-18/fd0fb558d7ba.m4a",
+   "dur": 72.1,
+   "title": "「DeepSeek 干掉 Opus 5.5」有多少水分：对比实验被 @teortaxesTex 逐条反驳"
+  },
+  "5aa331125c7e": {
+   "file": "2026-10-18/5aa331125c7e.m4a",
+   "dur": 70.1,
+   "title": "@teortaxesTex：V4.1-Flash 是某评测里「唯一被抓到作弊的模型」，还贴出一段「没敢问」的自述"
+  },
+  "56247a681e5a": {
+   "file": "2026-10-18/56247a681e5a.m4a",
+   "dur": 80.8,
+   "title": "LeCun 对 Elon「会飞的 Roadster」泼冷水：压缩空气推力只能撑几秒"
+  },
+  "1971cd2264a5": {
+   "file": "2026-10-18/1971cd2264a5.m4a",
+   "dur": 50.8,
+   "title": "Claude Code 桌面版 vs Codex：Peter Yang 说 Claude Code app「比 ChatGPT 更简单」，OpenAI 一侧回「hold my beer」"
+  },
+  "be2353f855ef": {
+   "file": "2026-10-18/be2353f855ef.m4a",
+   "dur": 82.1,
+   "title": "「AI 实验室为什么做不出好软件」：@g2sans 发问，@dotey 说自己退回 Electron，@tison1096 反问编译为什么慢"
+  },
+  "f6216c3e1805": {
+   "file": "2026-10-18/f6216c3e1805.m4a",
+   "dur": 60.1,
+   "title": "「code mode」到底省不省 token：@trq212 和 @badlogicgames 隔空争论"
+  },
+  "7c9a030f715d": {
+   "file": "2026-10-18/7c9a030f715d.m4a",
+   "dur": 56.2,
+   "title": "Codex 额度重置连发第 13 天，Tibo 说「今天太平洋时间日终前到账」"
+  },
+  "2c81514f5bfa": {
+   "file": "2026-10-18/2c81514f5bfa.m4a",
+   "dur": 58.2,
+   "title": "ChatGPT Slides 上线，ChatGPT 可读取并操控多个 Chrome 标签页"
+  },
+  "2bd6b2a76e03": {
+   "file": "2026-10-18/2bd6b2a76e03.m4a",
+   "dur": 71.0,
+   "title": "几条开源动静：Google Research 开源 Harness²，NVIDIA 放出 Nemotron 3.5 Super VL，Obsidian 的 Pele 要取代 Mermaid.js"
+  },
+  "25b287487a91": {
+   "file": "2026-10-18/25b287487a91.m4a",
+   "dur": 46.5,
+   "title": "Elon：Optimus 和 Cybercab 将占 Tesla 价值的绝大部分，「Roadster 超酷，所以还是做」"
+  },
+  "4013e93a528e": {
+   "file": "2026-10-18/4013e93a528e.m4a",
+   "dur": 57.7,
+   "title": "Ethan Mollick：agent 正在淹没政府和企业的「摩擦防线」，只能把服务做得更好或更差"
+  },
+  "581e42185b04": {
+   "file": "2026-10-18/581e42185b04.m4a",
+   "dur": 67.7,
+   "title": "数学博士生：「用每月 20 欧元的 ChatGPT 就能解出我做了两年的题，实验室里大家都很沮丧」"
+  },
+  "96458a1220c8": {
+   "file": "2026-10-18/96458a1220c8.m4a",
+   "dur": 84.0,
+   "title": "（续）Anthropic：IPO 估值预期从 2 万亿美元降到约 1.5 万亿，Kalshi 称今年上市概率 70%，Elon 回帖谈「GDP」"
+  },
+  "b81170c2e6ea": {
+   "file": "2026-10-18/b81170c2e6ea.m4a",
+   "dur": 59.7,
+   "title": "The Information 的商业报道三连：「神秘投资人」、AI 支出调查、私募资金追捧推理创业公司"
+  },
+  "c10420e8024f": {
+   "file": "2026-10-18/c10420e8024f.m4a",
+   "dur": 70.9,
+   "title": "前字节 Seed 成员：做 AI 智能体接单赚到七位数后发现「是个坑」"
+  },
+  "1ebcd7d30f7f": {
+   "file": "2026-10-18/1ebcd7d30f7f.m4a",
+   "dur": 101.9,
+   "title": "智谱 GLM 5.3：靠后训练就大幅提升，Flash 版架构被唐杰在清华讲解"
+  },
+  "cbeac3c9198f": {
+   "file": "2026-10-18/cbeac3c9198f.m4a",
+   "dur": 96.5,
+   "title": "Grok Bot：卡兹克吐槽「用得脑溢血」，Elon 对「开个 Grok Bot 课」回「Sure」，浩哥说速度远超 GPT 6 Astra"
+  },
+  "a1fd54197d23": {
+   "file": "2026-10-18/a1fd54197d23.m4a",
+   "dur": 66.3,
+   "title": "X 上「AI 评论机器人」泛滥：小互说比黄推机器人更恶心，向阳乔木在做识别插件"
+  },
+  "6928093bcca2": {
+   "file": "2026-10-18/6928093bcca2.m4a",
+   "dur": 77.5,
+   "title": "@staypinkyup：半导体连跌 8 天是 2008 年以来最长，但还谈不上熊市；市场担心的是 AI 投入何时赚回来"
+  },
+  "d3e0f8a9b4f7": {
+   "file": "2026-10-18/d3e0f8a9b4f7.m4a",
+   "dur": 68.4,
+   "title": "@staypinkyup：未来两周大科技财报日历，10 月 28 日最挤"
+  },
+  "bac55b26ab1a": {
+   "file": "2026-10-18/bac55b26ab1a.m4a",
+   "dur": 74.3,
+   "title": "@haogetruth：下周「卖 put 接了满手的、加杠杆的、满仓的」会迎来抛售，自己 10 月下跌前已缩仓"
+  },
+  "92d3d229eb34": {
+   "file": "2026-10-18/92d3d229eb34.m4a",
+   "dur": 79.8,
+   "title": "@haogetruth：「回调不是泡沫破裂，跌完会回来」，真正可怕的是买错标的"
+  },
+  "09dc2c42d9c9": {
+   "file": "2026-10-18/09dc2c42d9c9.m4a",
+   "dur": 82.9,
+   "title": "@arvyMacroCycles（浩哥回「显而易见」）：中期选举年 10 次全有回撤，平均约 -21%"
+  },
+  "c73043a87b2f": {
+   "file": "2026-10-18/c73043a87b2f.m4a",
+   "dur": 100.3,
+   "title": "@MrPingChecks 转述：普利策奖金融史学家称「我们肯定已经进入狂热阶段」，用 1873 年铁路崩盘类比 AI 资本开支"
+  },
+  "c76b259a7dbc": {
+   "file": "2026-10-18/c76b259a7dbc.m4a",
+   "dur": 55.9,
+   "title": "Teslaconomics：别只盯 Roadster 的销量和利润率，想想 Tesla 与 SpaceX 合并后能造什么"
+  },
+  "6902c19e9211": {
+   "file": "2026-10-18/6902c19e9211.m4a",
+   "dur": 66.0,
+   "title": "@kimchan_btc：DeepSeek 新模型「把 AI 的价格打崩」，预计周一 AI 相关股很危险"
+  },
+  "f29775c1d042": {
+   "file": "2026-10-18/f29775c1d042.m4a",
+   "dur": 41.3,
+   "title": "Tibo 的「降智」梗：@ajambrosino 今天被 nerf 了？"
+  },
+  "c0c0279d5394": {
+   "file": "2026-10-18/c0c0279d5394.m4a",
+   "dur": 51.0,
+   "title": "Similarweb：9 月 X 上流量最高的账号是 Tibo，排在 Elon 前面"
+  },
+  "55ecedc07c97": {
+   "file": "2026-10-18/55ecedc07c97.m4a",
+   "dur": 45.4,
+   "title": "Tibo 的「Burger」和「Dorito」：两个 AI 助手 20 分钟办完报税文件"
+  }
+ }
+}

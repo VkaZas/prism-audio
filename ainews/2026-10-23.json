@@ -1,0 +1,235 @@
+{
+ "voice": "Serena",
+ "items": {
+  "e1a0eb27eb82": {
+   "file": "2026-10-23/e1a0eb27eb82.m4a",
+   "dur": 113.5,
+   "title": "Black October：Quest Diagnostics、Capcom、LiteLLM、Railway 余波，两天里一串安全事件砸向圈子"
+  },
+  "b15ca84cb2e2": {
+   "file": "2026-10-23/b15ca84cb2e2.m4a",
+   "dur": 101.0,
+   "title": "Kimi K3.1 呼之欲出：圈内都在等一个「成败时刻」"
+  },
+  "7fd37fef66bb": {
+   "file": "2026-10-23/7fd37fef66bb.m4a",
+   "dur": 77.9,
+   "title": "DeepSeek V4.1 Pro 短期内不会来？@teortaxesTex 听完直呼「毁灭性」"
+  },
+  "a27ab34157a0": {
+   "file": "2026-10-23/a27ab34157a0.m4a",
+   "dur": 99.6,
+   "title": "SemiAnalysis：Anthropic 正在 A/B 测试用量上限，Boris Cherny 的口径从「没改」变成「正在查」"
+  },
+  "acb11fc5d09c": {
+   "file": "2026-10-23/acb11fc5d09c.m4a",
+   "dur": 81.9,
+   "title": "Anthropic 的 S-1 草稿被 WSJ 曝光，@AndrewCurran_ 借此推演「情报机构加 Mythos」"
+  },
+  "16db693bbfe9": {
+   "file": "2026-10-23/16db693bbfe9.m4a",
+   "dur": 49.1,
+   "title": "「爆了，字节同事圈有人爆料，火山销售水下收入起飞」"
+  },
+  "3920170e24d5": {
+   "file": "2026-10-23/3920170e24d5.m4a",
+   "dur": 83.3,
+   "title": "中国向美国发了 1,730 台晶体生长炉？SemiAnalysis 用它解读马斯克的 20GW 电力计划"
+  },
+  "0cd25459e768": {
+   "file": "2026-10-23/0cd25459e768.m4a",
+   "dur": 85.2,
+   "title": "中国新规下，DeepSeek 与 MiniMax 数小时内拿到开源许可"
+  },
+  "e8ca526b1a7e": {
+   "file": "2026-10-23/e8ca526b1a7e.m4a",
+   "dur": 82.2,
+   "title": "WSJ：被 OpenAI 开除的三位研究员，夏天一直在争取保留思维链可见，公司曾要看他们的 Signal 聊天"
+  },
+  "da0b97e655f2": {
+   "file": "2026-10-23/da0b97e655f2.m4a",
+   "dur": 69.3,
+   "title": "Sequoia 合伙人 Stephanie Zhan 自立门户做早期 AI 基金，Jeff Dean 等人当 LP"
+  },
+  "4a5246211316": {
+   "file": "2026-10-23/4a5246211316.m4a",
+   "dur": 62.9,
+   "title": "Casey Newton 与 Kevin Roose 官宣「Machine Gods」，主打「AI realism」，同一天还在嘲讽别人的 AI 新书"
+  },
+  "17e1d2ecd9a7": {
+   "file": "2026-10-23/17e1d2ecd9a7.m4a",
+   "dur": 109.8,
+   "title": "OpenAI 请 METR 和 Redwood 驻场审计，报告被删减后吵起来了，roon 说「言论没有被压制」"
+  },
+  "5bf0330997ad": {
+   "file": "2026-10-23/5bf0330997ad.m4a",
+   "dur": 93.0,
+   "title": "「AI 先帮攻击方还是防守方」成了今天的辩题"
+  },
+  "37ad676984bd": {
+   "file": "2026-10-23/37ad676984bd.m4a",
+   "dur": 72.9,
+   "title": "PHP2Shell 到底是谁先发现的？有账号扒出「NSA 早就备好了通告」的时间线"
+  },
+  "f054e6b95b82": {
+   "file": "2026-10-23/f054e6b95b82.m4a",
+   "dur": 93.2,
+   "title": "Claude Duet 是不是「手机专用」？@CaseyNewton 开喷，有账号出面澄清"
+  },
+  "d0df950b9184": {
+   "file": "2026-10-23/d0df950b9184.m4a",
+   "dur": 96.1,
+   "title": "Codex 额度「疯狂重置」？@dotey 猜 Tibo 的重置是在续命，Tibo 回了个 Day 18"
+  },
+  "7d209765be91": {
+   "file": "2026-10-23/7d209765be91.m4a",
+   "dur": 92.0,
+   "title": "@tenobrus 痛批 neolab：除了 Thinky 和 SSI，多半是「自我欺骗加忽悠」"
+  },
+  "6059fb9f0f10": {
+   "file": "2026-10-23/6059fb9f0f10.m4a",
+   "dur": 76.5,
+   "title": "「Opus 和 Fable 吹得太过了」：@VraserX 讽刺开发者只用写代码评模型"
+  },
+  "ab6eb0226ce1": {
+   "file": "2026-10-23/ab6eb0226ce1.m4a",
+   "dur": 69.2,
+   "title": "Claude 下周起在 Pro、Max、Team 上默认开启「自动模式」"
+  },
+  "47a1c919fdac": {
+   "file": "2026-10-23/47a1c919fdac.m4a",
+   "dur": 78.8,
+   "title": "苹果折叠屏 iPhone Duo 到货，Claude 已做了专门适配，「Duo / Duet」撞名还闹了个小乌龙"
+  },
+  "f7d29062808a": {
+   "file": "2026-10-23/f7d29062808a.m4a",
+   "dur": 111.9,
+   "title": "马斯克一天里至少五次转发 Grok @Bot 的用户见证；1Password 同日发布 Agents 平台，把 Grok @Bot 也列进合作名单"
+  },
+  "801de1c23ea5": {
+   "file": "2026-10-23/801de1c23ea5.m4a",
+   "dur": 90.5,
+   "title": "匿名模型 Space Bunny 原来是 MiniMax M3.1 Flash，一位博主拿它和 DeepSeek V4.1 Flash 打了一架"
+  },
+  "e235e941b903": {
+   "file": "2026-10-23/e235e941b903.m4a",
+   "dur": 66.5,
+   "title": "视频和图像两线同日有新模型：可灵 4.0 与 Canva Craft"
+  },
+  "38714c80a43d": {
+   "file": "2026-10-23/38714c80a43d.m4a",
+   "dur": 83.8,
+   "title": "Sundar Pichai 解释「消失的 Gemini 3.5 Pro」：为了更快补上编程短板，先把 Flash 迭代到 3.8"
+  },
+  "63ea5749d2f5": {
+   "file": "2026-10-23/63ea5749d2f5.m4a",
+   "dur": 98.0,
+   "title": "Anthropic 副 CISO：「过去四天已经够糟，接下来会更糟」，另有人给 Dario 的预言「记功」"
+  },
+  "ab2210d63f12": {
+   "file": "2026-10-23/ab2210d63f12.m4a",
+   "dur": 89.0,
+   "title": "Agent Skills 捐给 AAIF，@dotey 第一个吐槽：别再搞一套 .claude/skills"
+  },
+  "51c7b4f9be81": {
+   "file": "2026-10-23/51c7b4f9be81.m4a",
+   "dur": 60.8,
+   "title": "Ethan Mollick：AI 能独立完成的任务长度，从 4 分钟、17 小时涨到了 17 周"
+  },
+  "14c6d050dcca": {
+   "file": "2026-10-23/14c6d050dcca.m4a",
+   "dur": 66.1,
+   "title": "NASA 顾问说登月 Starship 要「约 22 次」加油发射，马斯克回：「高太多了，实际是 6 到 8 次」"
+  },
+  "4214b6c9ea3e": {
+   "file": "2026-10-23/4214b6c9ea3e.m4a",
+   "dur": 60.0,
+   "title": "Kevin Weil 的 Warp Sciences 拿到 2.15 亿美元 A 轮，Lightspeed 领投，要把前沿 AI 搬出浏览器、搬进实验室"
+  },
+  "cc67de103790": {
+   "file": "2026-10-23/cc67de103790.m4a",
+   "dur": 53.5,
+   "title": "a16z 拟把 a16z crypto 改名 a16z frontier，投资范围不再限于区块链"
+  },
+  "e8c78ec02bf4": {
+   "file": "2026-10-23/e8c78ec02bf4.m4a",
+   "dur": 92.6,
+   "title": "「一个人预训练出前沿级模型」：Mirendil 3.5 个月训出 100B–500B 参数，@ahatamiz1 劝小朋友别慌"
+  },
+  "abb67937e218": {
+   "file": "2026-10-23/abb67937e218.m4a",
+   "dur": 83.2,
+   "title": "Meta 的 Muse 登陆日本，日本博主称美国 40 天下载超 1,020 万次"
+  },
+  "f2338e8c8536": {
+   "file": "2026-10-23/f2338e8c8536.m4a",
+   "dur": 90.1,
+   "title": "EdgeRock-4B：推理再长，显存也不涨"
+  },
+  "02dcb8bf4ea0": {
+   "file": "2026-10-23/02dcb8bf4ea0.m4a",
+   "dur": 77.7,
+   "title": "Anthropic 的「数学级软件验证」：@Gorden_Sun 说「这可能是软件安全的解决办法」"
+  },
+  "e94166b98913": {
+   "file": "2026-10-23/e94166b98913.m4a",
+   "dur": 68.8,
+   "title": "LiteLLM「这么草台」：只拿到一个 Auth Token，就能关掉分支保护、强推带毒版本"
+  },
+  "ef2942c0c9fb": {
+   "file": "2026-10-23/ef2942c0c9fb.m4a",
+   "dur": 70.3,
+   "title": "币安 Agent ID 上线三天冒出 17 个项目，中文圈在盘点"
+  },
+  "15877b844ea2": {
+   "file": "2026-10-23/15877b844ea2.m4a",
+   "dur": 85.3,
+   "title": "@aleabitoreddit 引 Reuters：对冲基金集体踩踏，散户在抄 $NBIS $SNDK $TSM，认为「存在大量非理性抛售」"
+  },
+  "2f2444cf9014": {
+   "file": "2026-10-23/2f2444cf9014.m4a",
+   "dur": 68.1,
+   "title": "@aleabitoreddit：「今年涨了很多」，但看着一些票被杀到离谱的估值，「晚点可能去逛逛万圣节」"
+  },
+  "941088636463": {
+   "file": "2026-10-23/941088636463.m4a",
+   "dur": 87.2,
+   "title": "@haogetruth：恐慌到顶、「杀无可杀」，空仓可以开小仓，反弹先锋点名 be、spcx、mrvl，存储留点仓位"
+  },
+  "581a15e40247": {
+   "file": "2026-10-23/581a15e40247.m4a",
+   "dur": 95.8,
+   "title": "@haogetruth：复盘 $QQQ 的「完整剧本」，调侃抄底的人，并答 iren 可小仓等、aaoi 不懂"
+  },
+  "4b9f22596b8c": {
+   "file": "2026-10-23/4b9f22596b8c.m4a",
+   "dur": 73.9,
+   "title": "@swangentr：Ken Griffin 说「几乎肯定」有 AI 泡沫，Anthropic 传 11 月 IPO，别忘了问钱最后去哪"
+  },
+  "3c001cb1ebc4": {
+   "file": "2026-10-23/3c001cb1ebc4.m4a",
+   "dur": 98.9,
+   "title": "@SemiAnalysis_：Rubin NVL72 在 GLM5.3 上到 862 tok/s/user，ASML 在做未公布的混合键合设备，HBM 要等到 2029 年以后"
+  },
+  "b18fb841c115": {
+   "file": "2026-10-23/b18fb841c115.m4a",
+   "dur": 66.1,
+   "title": "Codex 重做「Not Hotdog」？Decisions API 正式可用，OpenAI 的人开始玩法式梗"
+  },
+  "bcf8b0701f6e": {
+   "file": "2026-10-23/bcf8b0701f6e.m4a",
+   "dur": 61.4,
+   "title": "「服务器清单：12 台。实际：没人知道」：PHP 紧急修补的段子被 Lenny 评为「So good」"
+  },
+  "15852c7eea14": {
+   "file": "2026-10-23/15852c7eea14.m4a",
+   "dur": 70.3,
+   "title": "「我放弃了」：想在免费重置过期前烧光 Claude Max 额度，结果只用了 82%"
+  },
+  "c5890ba229ba": {
+   "file": "2026-10-23/c5890ba229ba.m4a",
+   "dur": 74.2,
+   "title": "roon 的「十秒自打脸」：先说网红都得精神不正常，紧接着补一句「我看到了这里的讽刺」"
+  }
+ }
+}

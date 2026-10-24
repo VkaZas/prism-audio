@@ -1,0 +1,220 @@
+{
+ "voice": "Serena",
+ "items": {
+  "b1154307a1ec": {
+   "file": "2026-10-20/b1154307a1ec.m4a",
+   "dur": 117.9,
+   "title": "The Information：本月有 Anthropic 新模型，Gemini 4 Carbon 和 OpenAI 新 Terra 同期在路上，记者一个半小时后改口「是未来几周」"
+  },
+  "0237818bd170": {
+   "file": "2026-10-20/0237818bd170.m4a",
+   "dur": 112.0,
+   "title": "圈内都在猜 Fable 5.5 和 Opus 5.6 什么时候发：有人说 Anthropic 工程师周一罕见进了办公室"
+  },
+  "3856c8b817d2": {
+   "file": "2026-10-20/3856c8b817d2.m4a",
+   "dur": 106.4,
+   "title": "T3 Code 里冒出「Fable 5.5」，Theo：那是 Fable 5.1 的幻觉，不是泄露"
+  },
+  "9cd3cae58708": {
+   "file": "2026-10-20/9cd3cae58708.m4a",
+   "dur": 67.6,
+   "title": "（续）GPT-6.1 Terra 出现在微软的一个 PR 里，今天热度涨到 700 多赞"
+  },
+  "d02f6312e6d5": {
+   "file": "2026-10-20/d02f6312e6d5.m4a",
+   "dur": 82.2,
+   "title": "神秘域名藏着「6.5」和 11 月 1 日倒计时，有人说这是 GPT-6.5 和 Tibo 的「28 天」第 28 天"
+  },
+  "c3529e93d69d": {
+   "file": "2026-10-20/c3529e93d69d.m4a",
+   "dur": 122.3,
+   "title": "The Information 独家：DeepSeek 在深度参与华为昇腾芯片设计，目标是前沿模型完全脱离 Nvidia"
+  },
+  "8d01734fc3cd": {
+   "file": "2026-10-20/8d01734fc3cd.m4a",
+   "dur": 66.8,
+   "title": "DHS 要求联邦民用机构清退 DeepSeek，连「基于 DeepSeek 实现的第三方服务」也要撤"
+  },
+  "87d4492d19f9": {
+   "file": "2026-10-20/87d4492d19f9.m4a",
+   "dur": 79.4,
+   "title": "Altman 在 OpenAI 全员会上提出三种「给 AI 发展控速」的行业方案"
+  },
+  "15564860ff49": {
+   "file": "2026-10-20/15564860ff49.m4a",
+   "dur": 81.0,
+   "title": "Curran 连发三条，盯着那名被指控在办公室装窃听设备的前 OpenAI 工程师案"
+  },
+  "a79d04ad19d8": {
+   "file": "2026-10-20/a79d04ad19d8.m4a",
+   "dur": 58.0,
+   "title": "有人称 Altman 在 Tucker Carlson 访谈里的一句「朋友」，和一封泄露的 HR 邮件对不上"
+  },
+  "55c9f6362e46": {
+   "file": "2026-10-20/55c9f6362e46.m4a",
+   "dur": 64.0,
+   "title": "字节在多个厕所贴警告海报，防员工用「字节员工」身份起号时泄露机密"
+  },
+  "b4e48ae07a32": {
+   "file": "2026-10-20/b4e48ae07a32.m4a",
+   "dur": 82.7,
+   "title": "Reuters：一名讲中文的黑客用 AI agent 攻破 100 多家公司网站，成本约 50 美元一次"
+  },
+  "51b312f5d134": {
+   "file": "2026-10-20/51b312f5d134.m4a",
+   "dur": 105.2,
+   "title": "Aleksander Madry 回到 OpenAI：「以为是离开，其实只是休假」，要和 Jakub Pachocki 一起研究进展的速度和影响"
+  },
+  "9e53bf341277": {
+   "file": "2026-10-20/9e53bf341277.m4a",
+   "dur": 129.2,
+   "title": "（续）LeCun 和 Musk 的 Roadster 之争：LeCun 说「只有少数不明就里的 Elon 粉丝觉得我是 loser」"
+  },
+  "bc0d9196e0b3": {
+   "file": "2026-10-20/bc0d9196e0b3.m4a",
+   "dur": 113.0,
+   "title": "SemiAnalysis：Nvidia 被 TPUv7「吓到」后加班提交，GB300 FP4 的单位成本性能仍落后 1.64 倍"
+  },
+  "0fd2034dabb7": {
+   "file": "2026-10-20/0fd2034dabb7.m4a",
+   "dur": 129.8,
+   "title": "DeepSeek V4.1 Flash 和 MiniMax M3.1 Flash 的知识类成绩：是真涨了，还是蒸馏、污染？"
+  },
+  "649368dac325": {
+   "file": "2026-10-20/649368dac325.m4a",
+   "dur": 114.8,
+   "title": "Astra 对 Opus 5.5：粉丝说「不会用才选 Opus」，日本圈说 Astra 发布后会被 nerf"
+  },
+  "fe2c4abbbc5e": {
+   "file": "2026-10-20/fe2c4abbbc5e.m4a",
+   "dur": 58.9,
+   "title": "Meta 的 Muse 网页版在做「Confidential VMs」，先给 Meta AI 订阅用户"
+  },
+  "74291e189f93": {
+   "file": "2026-10-20/74291e189f93.m4a",
+   "dur": 72.3,
+   "title": "OpenAI 平台出现「Decisions」API 试验场，有 Predicate、Choice、Score 三种模式"
+  },
+  "1eb0a67f7251": {
+   "file": "2026-10-20/1eb0a67f7251.m4a",
+   "dur": 39.6,
+   "title": "苹果 10 月 28 日在洛杉矶开特别发布会，传带触摸屏和 eSIM 的 MacBook"
+  },
+  "fdea6343888c": {
+   "file": "2026-10-20/fdea6343888c.m4a",
+   "dur": 114.2,
+   "title": "一批新模型和工具同天上线：Mercury 3、FLUX 3 Max、HyperFlow、DeepInfer，OpenAI 说在 COBOL 上更强了"
+  },
+  "9dc805055f32": {
+   "file": "2026-10-20/9dc805055f32.m4a",
+   "dur": 71.3,
+   "title": "Musk：X 推荐算法换了「AI/SI 排序模型」，用户活跃秒数「指数增长」，Android 版重写也「是件大事」"
+  },
+  "73d40bf6ef7f": {
+   "file": "2026-10-20/73d40bf6ef7f.m4a",
+   "dur": 45.0,
+   "title": "Musk：「把股份直接发给人民，是正确的路」"
+  },
+  "b275232fd252": {
+   "file": "2026-10-20/b275232fd252.m4a",
+   "dur": 96.9,
+   "title": "（续）Grok Bot 热：Musk 说它可能成为你「最喜欢的员工」，腾讯开源了自托管替代品 Octop"
+  },
+  "728a59cc9a4a": {
+   "file": "2026-10-20/728a59cc9a4a.m4a",
+   "dur": 73.1,
+   "title": "signulll：「全球 98% 的人对 AI 毫无察觉」，另一条说模型越聪明，创业者要放进产品的聪明就越少"
+  },
+  "ee630e672c35": {
+   "file": "2026-10-20/ee630e672c35.m4a",
+   "dur": 77.3,
+   "title": "Mollick：多人 AI 要走出「群聊阶段」，群聊混乱、人人都看得到一切，不适合长项目"
+  },
+  "87905e941be1": {
+   "file": "2026-10-20/87905e941be1.m4a",
+   "dur": 61.6,
+   "title": "快讯：OpenAI 在抢着敲定私募融资，赶在 Anthropic IPO 之前"
+  },
+  "3cf6d0fe8171": {
+   "file": "2026-10-20/3cf6d0fe8171.m4a",
+   "dur": 80.9,
+   "title": "Notion Business 和 Enterprise 的 AI 不再「不限量」：每人每月 1500 个 Standard 积分加 500 个 Select 积分"
+  },
+  "84d3b447ad4e": {
+   "file": "2026-10-20/84d3b447ad4e.m4a",
+   "dur": 85.6,
+   "title": "日语圈转述：美国 47 座大型 AI 数据中心接连取消，CoreWeave 债息涨到 15%，但币种对不上"
+  },
+  "7b2c4badd0b4": {
+   "file": "2026-10-20/7b2c4badd0b4.m4a",
+   "dur": 113.1,
+   "title": "「虔诚地用 Claude 就不会被封号」：CuiMao 用半年的号，被 Gorden_Sun 当场挖出旧帖"
+  },
+  "4de2d0c318a0": {
+   "file": "2026-10-20/4de2d0c318a0.m4a",
+   "dur": 76.8,
+   "title": "阿里 Qwen 开源 OpenGCUA：让模型自己决定要不要看屏幕，还能写带循环的代码去操作电脑"
+  },
+  "f16fbf98191d": {
+   "file": "2026-10-20/f16fbf98191d.m4a",
+   "dur": 91.2,
+   "title": "网易 LobsterAI 第二期报告：9 月每次任务平均消耗 20.2 万 token，是 3 月的 3.2 倍"
+  },
+  "41fbeacc5a68": {
+   "file": "2026-10-20/41fbeacc5a68.m4a",
+   "dur": 80.8,
+   "title": "oran_ge：DeepSeek 4.1 Flash 做视频动效，12 分钟、约 0.2 美元，但和 Opus 5.5 有差距；Cola 2.0 十一月上线"
+  },
+  "9280aaa48d4d": {
+   "file": "2026-10-20/9280aaa48d4d.m4a",
+   "dur": 64.0,
+   "title": "《Next Token》播客的几句狠话：AI 打到 60 分的东西就变成 0 分；多 Agent 拉群只有情绪价值"
+  },
+  "aaa5f529bdca": {
+   "file": "2026-10-20/aaa5f529bdca.m4a",
+   "dur": 84.9,
+   "title": "@haogetruth 看纳指：最像 1999，不是 1989，先涨、调整、再涨更久，然后才崩"
+  },
+  "7f50bbce2430": {
+   "file": "2026-10-20/7f50bbce2430.m4a",
+   "dur": 66.9,
+   "title": "@APompliano：Anthropic 增速放缓的传闻，让它在代币化市场的估值掉了数千亿美元"
+  },
+  "479c60a3450d": {
+   "file": "2026-10-20/479c60a3450d.m4a",
+   "dur": 65.7,
+   "title": "Chamath（经 @VraserX 转述）：Anthropic 应该接受更低估值，换取募集 2000 亿美元算力资金"
+  },
+  "7632bf96fadf": {
+   "file": "2026-10-20/7632bf96fadf.m4a",
+   "dur": 82.7,
+   "title": "@FundaAI 的企业调查：样本公司的 AI 支出增速预期放缓，日常工作转向更便宜的模型"
+  },
+  "f812f4bb4dfb": {
+   "file": "2026-10-20/f812f4bb4dfb.m4a",
+   "dur": 95.3,
+   "title": "@MrPingChecks 转述 Figma CEO：被华尔街「判死刑」后，营收增速反而加快，「设计就是新代码」"
+  },
+  "24d535535dd1": {
+   "file": "2026-10-20/24d535535dd1.m4a",
+   "dur": 67.1,
+   "title": "SoveyX 让 Grok Bot 清理关注列表，结果「误取关」了一堆人，顺手「确认」了几条荒唐谣言：账号卖给了朝鲜（真）"
+  },
+  "92b1219c37b8": {
+   "file": "2026-10-20/92b1219c37b8.m4a",
+   "dur": 39.2,
+   "title": "Casey Newton：给自己的 Theranos 设备贴上「我是在她发疯之前买的」贴纸"
+  },
+  "a46e834afd6f": {
+   "file": "2026-10-20/a46e834afd6f.m4a",
+   "dur": 45.4,
+   "title": "Musk 一句「They really don't」拿下今天最高赞，但没人知道在说谁"
+  },
+  "7dddbbc57557": {
+   "file": "2026-10-20/7dddbbc57557.m4a",
+   "dur": 60.5,
+   "title": "Doria：「现在还来得及写一篇关于太阳辐射和非确定性的论文，抢 2030 年后仅剩的几份工作」"
+  }
+ }
+}
