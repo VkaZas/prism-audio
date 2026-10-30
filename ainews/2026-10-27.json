@@ -1,0 +1,240 @@
+{
+ "voice": "Serena",
+ "items": {
+  "25d46a443ecb": {
+   "file": "2026-10-27/25d46a443ecb.m4a",
+   "dur": 76.3,
+   "title": "Anthropic 内部人透露的数字，比半年前收敛了？"
+  },
+  "c9709e81be55": {
+   "file": "2026-10-27/c9709e81be55.m4a",
+   "dur": 60.9,
+   "title": "Tao 说 OpenAI 因传闻拉了「红色警报」？OpenAI 否认，转述者还挑了时间线的刺"
+  },
+  "836760ac7845": {
+   "file": "2026-10-27/836760ac7845.m4a",
+   "dur": 86.1,
+   "title": "Cohere 称 Qwen3.8-Flash-Next 在沙箱里试图往阿里云北京存储桶传探针文件"
+  },
+  "bdadb6e6d815": {
+   "file": "2026-10-27/bdadb6e6d815.m4a",
+   "dur": 59.4,
+   "title": "Georgia 选举数据：Claude「没被要求」就拿了 token、读了付费看板？"
+  },
+  "86d483ca8f6a": {
+   "file": "2026-10-27/86d483ca8f6a.m4a",
+   "dur": 56.7,
+   "title": "deedydas：用去掉拒答机制的模型，扫出约 3,300 美元的 ElevenLabs 活密钥"
+  },
+  "b09cdfc0f8f4": {
+   "file": "2026-10-27/b09cdfc0f8f4.m4a",
+   "dur": 55.6,
+   "title": "The Information：针对银行的黑客组合用 Grok 收集情报、Claude 做计划、Kimi 接 Claude 拒绝的活"
+  },
+  "4581f6ec84c1": {
+   "file": "2026-10-27/4581f6ec84c1.m4a",
+   "dur": 76.0,
+   "title": "trq212 宣布离开 Anthropic，转头就被点名上 AIE 闭幕主题演讲"
+  },
+  "555c0fbcafa3": {
+   "file": "2026-10-27/555c0fbcafa3.m4a",
+   "dur": 50.5,
+   "title": "Peter Sellis 加入 X 负责产品"
+  },
+  "9e8753b1f83c": {
+   "file": "2026-10-27/9e8753b1f83c.m4a",
+   "dur": 99.4,
+   "title": "微软推出「自愿离职」邀约，约 6 万人符合条件"
+  },
+  "b1d420f51328": {
+   "file": "2026-10-27/b1d420f51328.m4a",
+   "dur": 51.1,
+   "title": "signulll：Meta 的 Alexandr Wang 有 200 多个直接下属，Anthropic 前 CTO 们变成了 IC"
+  },
+  "85c2291c665d": {
+   "file": "2026-10-27/85c2291c665d.m4a",
+   "dur": 78.5,
+   "title": "esrtweet 点名 OpenAI 和 Anthropic：别把正当用户挡在门外，OpenAI 的 tszzl 回应「误伤，正在修」"
+  },
+  "7483043f4c2a": {
+   "file": "2026-10-27/7483043f4c2a.m4a",
+   "dur": 114.1,
+   "title": "ETH 撞车：OpenAI 和 Anthropic 同日「推翻」同一个复杂度假设，评论区开始争发现日期"
+  },
+  "6abf9b5299f1": {
+   "file": "2026-10-27/6abf9b5299f1.m4a",
+   "dur": 89.0,
+   "title": "纳维-斯托克斯之后的署名与发布方式之争：这次 OpenAI 请外部专家牵头、不要学术署名"
+  },
+  "4f697b639e48": {
+   "file": "2026-10-27/4f697b639e48.m4a",
+   "dur": 65.9,
+   "title": "Carmack 泼冷水：没有机器人能给南瓜灯换电池；Elon 回以挥舞着电锯的杂耍"
+  },
+  "f39e37e17a84": {
+   "file": "2026-10-27/f39e37e17a84.m4a",
+   "dur": 68.8,
+   "title": "Elon 对 zephyr_z9：机器人内存需求的「愚蠢分析」"
+  },
+  "7b932004ee84": {
+   "file": "2026-10-27/7b932004ee84.m4a",
+   "dur": 54.0,
+   "title": "SemiAnalysis 断言阿里「磐久 128」不是真正的机架级 scale-up，zartbotF 公开质疑"
+  },
+  "08b1e6b3b295": {
+   "file": "2026-10-27/08b1e6b3b295.m4a",
+   "dur": 126.0,
+   "title": "GPT-6.1 Terra 上线：速度和价格是卖点，口碑两极"
+  },
+  "44c6a6ff72ea": {
+   "file": "2026-10-27/44c6a6ff72ea.m4a",
+   "dur": 101.5,
+   "title": "Fable 5.5 哪天发？IPO 次日、本周、「今天就是 Fable 5.5 日」，说法不一"
+  },
+  "7f5597eeb4a5": {
+   "file": "2026-10-27/7f5597eeb4a5.m4a",
+   "dur": 82.8,
+   "title": "Gemini 4 Carbon 在路上，Google 内部字符串透出「AI 改 SI」"
+  },
+  "df90d2cde0ef": {
+   "file": "2026-10-27/df90d2cde0ef.m4a",
+   "dur": 63.2,
+   "title": "Grok 新模型迟迟不来，Grok Bot 先漏出 0.77 预发布功能"
+  },
+  "6026507e9b7e": {
+   "file": "2026-10-27/6026507e9b7e.m4a",
+   "dur": 74.9,
+   "title": "OpenAI 的 dots 进欧盟还要几周到几个月，Astra 6.2 和神秘的「Bel」在传，Meta 的 Muse 要上语音通话"
+  },
+  "bfa485ca8098": {
+   "file": "2026-10-27/bfa485ca8098.m4a",
+   "dur": 93.3,
+   "title": "DeepSeek 年底的「大肥鱼」、Kimi K3.1 Pro 的开源日期和几个开源新品"
+  },
+  "f237a57b5b67": {
+   "file": "2026-10-27/f237a57b5b67.m4a",
+   "dur": 122.4,
+   "title": "gdb 官宣三项 AI 科学发现，补了一句 P 大概率仍不等于 NP"
+  },
+  "d68eb75bc413": {
+   "file": "2026-10-27/d68eb75bc413.m4a",
+   "dur": 65.3,
+   "title": "emollick：隐藏思考轨迹是想象力的失败"
+  },
+  "b33d8369ca86": {
+   "file": "2026-10-27/b33d8369ca86.m4a",
+   "dur": 69.3,
+   "title": "Elon：当员工用 Grok Bot，每天都是 zero-day，Waymo 对 Tesla「从来不是真竞争」"
+  },
+  "fab56dbfcb0c": {
+   "file": "2026-10-27/fab56dbfcb0c.m4a",
+   "dur": 59.1,
+   "title": "natolambert：Qwen 的怪行为会传开，因为没人读过中档开放模型的轨迹"
+  },
+  "b9a54aa673ed": {
+   "file": "2026-10-27/b9a54aa673ed.m4a",
+   "dur": 123.0,
+   "title": "S-1 里最扎眼的数字：营收一年涨 14 倍、毛利 85%、第二季度营业利润 9.74 亿美元"
+  },
+  "dcf195712db9": {
+   "file": "2026-10-27/dcf195712db9.m4a",
+   "dur": 108.2,
+   "title": "S-1 的另一面：数千亿美元算力承诺、一股锁住 50.1% 投票权、上市时间表"
+  },
+  "5ed8eca50fe5": {
+   "file": "2026-10-27/5ed8eca50fe5.m4a",
+   "dur": 77.1,
+   "title": "FundaAI 读 S-1 读出的几处「漂亮但要打折」"
+  },
+  "ee2f75c34887": {
+   "file": "2026-10-27/ee2f75c34887.m4a",
+   "dur": 56.5,
+   "title": "OpenAI 用折扣抢 Anthropic 的大客户"
+  },
+  "48d05566009c": {
+   "file": "2026-10-27/48d05566009c.m4a",
+   "dur": 83.8,
+   "title": "SpaceX 约 400 亿美元 GPU 融资、Meta 最高 950 亿美元融资传闻，neocloud 一片恐慌"
+  },
+  "41fd5d082564": {
+   "file": "2026-10-27/41fd5d082564.m4a",
+   "dur": 82.2,
+   "title": "neolab 的「商业模式」被点名：囤卡等涨价再转租"
+  },
+  "21986245947c": {
+   "file": "2026-10-27/21986245947c.m4a",
+   "dur": 88.1,
+   "title": "Grok Bot 在中文圈火了：能打电话、能代付，但烧钱太快"
+  },
+  "d7a95c785671": {
+   "file": "2026-10-27/d7a95c785671.m4a",
+   "dur": 88.2,
+   "title": "文心 Unlimited OCR 2：一口气吞下 3,600 页《哈利·波特》"
+  },
+  "6ed35a8dc70c": {
+   "file": "2026-10-27/6ed35a8dc70c.m4a",
+   "dur": 58.4,
+   "title": "蚂蚁灵光 2.0 升级为「个人 AI 助理」，国内个人 Agent 战斗打响"
+  },
+  "38de0b8671f7": {
+   "file": "2026-10-27/38de0b8671f7.m4a",
+   "dur": 67.1,
+   "title": "Manus 联创分享「用 Manus 改造 Manus」：把工程基建从对人友好改成对 AI 暴露接口"
+  },
+  "98853978f7e6": {
+   "file": "2026-10-27/98853978f7e6.m4a",
+   "dur": 72.2,
+   "title": "OpenAI 的成果和微软裁员叠在一起，中文圈的「饭碗焦虑」"
+  },
+  "bb032ccb18ff": {
+   "file": "2026-10-27/bb032ccb18ff.m4a",
+   "dur": 83.2,
+   "title": "@aleabitoreddit 继续看多 InP 衬底瓶颈，点名 $AXTI"
+  },
+  "421f14ff69f1": {
+   "file": "2026-10-27/421f14ff69f1.m4a",
+   "dur": 44.3,
+   "title": "@aleabitoreddit 抛出中期选举季节性：选后 11 月到次年 6 月，标普 500 21 次全涨"
+  },
+  "b61c29c670e3": {
+   "file": "2026-10-27/b61c29c670e3.m4a",
+   "dur": 48.4,
+   "title": "@nic_carter：Anthropic 的 S-1 可能是 neocloud 的底"
+  },
+  "5244f7770fbb": {
+   "file": "2026-10-27/5244f7770fbb.m4a",
+   "dur": 48.1,
+   "title": "@haogetruth：neocloud 的鬼故事不只是融资，最简单的办法是回避"
+  },
+  "a78d3b7df809": {
+   "file": "2026-10-27/a78d3b7df809.m4a",
+   "dur": 40.9,
+   "title": "@staypinkyup：伊朗消息推升夜盘，$SOXL 起飞，趁波动做 T，留现金等周三"
+  },
+  "0bae24c4c56f": {
+   "file": "2026-10-27/0bae24c4c56f.m4a",
+   "dur": 77.3,
+   "title": "@staypinkyup 拆 Anthropic 招股书：看数字之外，更要看控制权和何时能买"
+  },
+  "10d02260f0ab": {
+   "file": "2026-10-27/10d02260f0ab.m4a",
+   "dur": 88.5,
+   "title": "@FundaAI 发布 ANT 的 EPS 模型，同时拆 $MSFT 的自愿离职"
+  },
+  "a9fd73429765": {
+   "file": "2026-10-27/a9fd73429765.m4a",
+   "dur": 62.9,
+   "title": "Nintendo 要对 Claude 开战了？"
+  },
+  "0717b4c2ac49": {
+   "file": "2026-10-27/0717b4c2ac49.m4a",
+   "dur": 60.2,
+   "title": "搜「爆料」搜出一屏「Hey @grok 帮我核实」，外加泛滥的赚钱教程"
+  },
+  "fefa0a3b998a": {
+   "file": "2026-10-27/fefa0a3b998a.m4a",
+   "dur": 62.8,
+   "title": "圈内小段子三则：Dario 的「国宝」轶事、lennysan 为烧掉的 token 道歉、kyliebytes 想不起 Stripe 曾是最贵私有公司"
+  }
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "voice": "Serena",
+ "items": {
+  "17403439c3a5": {
+   "file": "2026-10-25/17403439c3a5.m4a",
+   "dur": 108.3,
+   "title": "OpenAI「28 天 Codex」据说要以新模型收尾，GPT-6.1 Terra 的线索越来越多"
+  },
+  "9bf55586ee36": {
+   "file": "2026-10-25/9bf55586ee36.m4a",
+   "dur": 58.3,
+   "title": "有人说 SpaceXAI 挖走了 Claude Code 团队的两位核心工程师"
+  },
+  "7332fe9e2f3a": {
+   "file": "2026-10-25/7332fe9e2f3a.m4a",
+   "dur": 33.8,
+   "title": "Anthropic 被「Elvis」起诉？"
+  },
+  "086927592859": {
+   "file": "2026-10-25/086927592859.m4a",
+   "dur": 59.8,
+   "title": "Gemini 4 Flash 疑似在小范围灰度，代码元数据里有路由线索"
+  },
+  "b442a72eec3b": {
+   "file": "2026-10-25/b442a72eec3b.m4a",
+   "dur": 69.5,
+   "title": "iruletheworldmo：很多 OpenAI 员工在私下给「OpenAI 看不到盈利路径」的帖子点赞"
+  },
+  "0eaea44783d6": {
+   "file": "2026-10-25/0eaea44783d6.m4a",
+   "dur": 57.4,
+   "title": "The Information：Altman 对员工说，行业需要更好的办法放慢危险 AI 的发展"
+  },
+  "843f955c5432": {
+   "file": "2026-10-25/843f955c5432.m4a",
+   "dur": 78.5,
+   "title": "Kimi K3.1 的宣发话术被曝光，还有人指控它依赖 Claude API"
+  },
+  "b8c4434a908d": {
+   "file": "2026-10-25/b8c4434a908d.m4a",
+   "dur": 49.3,
+   "title": "据称字节内部为抢算力有人动手脚，把另一个团队的训练搞到每两三小时崩一次"
+  },
+  "54e208ba4ef4": {
+   "file": "2026-10-25/54e208ba4ef4.m4a",
+   "dur": 55.9,
+   "title": "有人声称解锁了 RTX 3090 的隐藏算力，PyTorch 实测从 75T 提到 135T"
+  },
+  "49629e48aec0": {
+   "file": "2026-10-25/49629e48aec0.m4a",
+   "dur": 115.2,
+   "title": "Claude Code 的 Thariq 和 Anthony Morris 同日宣布离开 Anthropic，距离 IPO 只剩一个月"
+  },
+  "cf096d542314": {
+   "file": "2026-10-25/cf096d542314.m4a",
+   "dur": 47.0,
+   "title": "Codex 负责人 Tibo 公开招人：想把 dots 做到 10 亿用户"
+  },
+  "e7e8c21803da": {
+   "file": "2026-10-25/e7e8c21803da.m4a",
+   "dur": 80.9,
+   "title": "Tibo 对阵 Alexandr Wang：个人 agent 之争打成了互相嘲讽「用户数」"
+  },
+  "c3942d1697f1": {
+   "file": "2026-10-25/c3942d1697f1.m4a",
+   "dur": 83.4,
+   "title": "LeCun 嘲讽 Musk：靠指挥比自己聪明的工程师发家，却担心管不住更聪明的 AI"
+  },
+  "2ff5a1f90261": {
+   "file": "2026-10-25/2ff5a1f90261.m4a",
+   "dur": 107.6,
+   "title": "本周「AI 网络攻击能力」成了最大争议话题，多个互不相关的来源同时在说"
+  },
+  "8a3b1ceca12c": {
+   "file": "2026-10-25/8a3b1ceca12c.m4a",
+   "dur": 80.4,
+   "title": "逆向工程被封号，「被 AI 公司一键拉黑」成了开源派的新论据"
+  },
+  "c0e5d772502a": {
+   "file": "2026-10-25/c0e5d772502a.m4a",
+   "dur": 59.8,
+   "title": "Gemini API 的「花费上限」有 10 分钟延迟，Logan 出来道歉"
+  },
+  "31bd0e74185a": {
+   "file": "2026-10-25/31bd0e74185a.m4a",
+   "dur": 36.3,
+   "title": "X Money 要加「长按点赞给人发 1 美元」"
+  },
+  "926ee55de5cb": {
+   "file": "2026-10-25/926ee55de5cb.m4a",
+   "dur": 71.8,
+   "title": "个人 agent 三国杀：Grok Bot、Meta 的 Muse、OpenAI 的 dots"
+  },
+  "2dec786f2c03": {
+   "file": "2026-10-25/2dec786f2c03.m4a",
+   "dur": 66.6,
+   "title": "Nous 的 Hermes 手机 App 被预告，Nanbeige 发布 33B 稠密模型"
+  },
+  "4ed99f008df5": {
+   "file": "2026-10-25/4ed99f008df5.m4a",
+   "dur": 98.8,
+   "title": "Musk：会出现大量烂尾数据中心里的「搁浅算力」，把 neolab 和 neocloud 圈的气氛搅了"
+  },
+  "142bff7c52c1": {
+   "file": "2026-10-25/142bff7c52c1.m4a",
+   "dur": 68.1,
+   "title": "Pichai 靠 agent 管 Google，Mollick 说这会改变大公司的运作方式"
+  },
+  "59d2ec28e0dd": {
+   "file": "2026-10-25/59d2ec28e0dd.m4a",
+   "dur": 64.6,
+   "title": "Nathan Lambert：闭源实验室的 RL 细节正在慢慢泄露"
+  },
+  "458e7bf1779f": {
+   "file": "2026-10-25/458e7bf1779f.m4a",
+   "dur": 47.9,
+   "title": "Anthropic 准备下月上市：内部相信 2030 年前 AI 做出诺奖级突破，华尔街没那么信"
+  },
+  "2759ab5c2e8c": {
+   "file": "2026-10-25/2759ab5c2e8c.m4a",
+   "dur": 52.3,
+   "title": "Nvidia 用 1700 亿美元以上的投资和承诺托着自己的需求，CoreWeave 成了「AI 能不能融到钱」的风向标"
+  },
+  "557525b056b8": {
+   "file": "2026-10-25/557525b056b8.m4a",
+   "dur": 40.0,
+   "title": "Anthropic 谈判强硬，OpenAI 大方发折扣和免费额度，一批客户转向 OpenAI"
+  },
+  "1612de5b70a7": {
+   "file": "2026-10-25/1612de5b70a7.m4a",
+   "dur": 52.8,
+   "title": "Salesforce 要求客户登记外部 AI agent 并监控它们的调用，可能额外收费"
+  },
+  "39624e90abbf": {
+   "file": "2026-10-25/39624e90abbf.m4a",
+   "dur": 101.3,
+   "title": "GPU 租价跑赢折旧表，推理服务商靠价差月入百万美元"
+  },
+  "5e470c2824c2": {
+   "file": "2026-10-25/5e470c2824c2.m4a",
+   "dur": 46.8,
+   "title": "Higgsfield 获 NVIDIA 和 TCV 加入 B 轮追加融资，称年化收入已破 10 亿美元"
+  },
+  "f965e0e0aa07": {
+   "file": "2026-10-25/f965e0e0aa07.m4a",
+   "dur": 83.8,
+   "title": "一串交易传闻：Datadog 近 40 亿美元报价 Upwind，PE 曾探讨以 1000 亿到 1500 亿美元买下 Xbox"
+  },
+  "58f1d12e7fe7": {
+   "file": "2026-10-25/58f1d12e7fe7.m4a",
+   "dur": 94.1,
+   "title": "SemiAnalysis：出口管制只会加速中国半导体设备国产化；德州空气许可暂停可能让部分数据中心顺延一个季度"
+  },
+  "6b7d77171b42": {
+   "file": "2026-10-25/6b7d77171b42.m4a",
+   "dur": 135.7,
+   "title": "Grok Bot 和 Muse 把「个人 agent」玩成了全民热，中文圈的反应很两极"
+  },
+  "383637d4d4b5": {
+   "file": "2026-10-25/383637d4d4b5.m4a",
+   "dur": 91.2,
+   "title": "宝玉翻出 20 岁 Dario Amodei 在 2003 年反对伊拉克战争的发言"
+  },
+  "e128a22bca15": {
+   "file": "2026-10-25/e128a22bca15.m4a",
+   "dur": 100.8,
+   "title": "中文圈的 AI 日常：用 Codex 越狱 Kindle、一句话做出鹈鹕骑车游戏、电视台开始念 AI 稿"
+  },
+  "64747e5ad5c2": {
+   "file": "2026-10-25/64747e5ad5c2.m4a",
+   "dur": 67.4,
+   "title": "Serenity（@aleabitoreddit）看多光互连里的激光瓶颈：引黄仁勋的话推 $LITE、$COHR 这条线"
+  },
+  "2fb62be6699f": {
+   "file": "2026-10-25/2fb62be6699f.m4a",
+   "dur": 79.5,
+   "title": "Serenity 回应「$SIVE 是不是只做二线客户」：直连一线 hyperscaler，不缺融资"
+  },
+  "e12fb7ad0674": {
+   "file": "2026-10-25/e12fb7ad0674.m4a",
+   "dur": 52.1,
+   "title": "Serenity 点评 $AAOI：激光产能扩 350% 仍不够自用，应转做 CPO 激光、向 $SIVE 这类商用厂买货"
+  },
+  "db11efdd0b79": {
+   "file": "2026-10-25/db11efdd0b79.m4a",
+   "dur": 61.3,
+   "title": "Serenity 盯 $AXTI 的涨价空间：渠道调研显示 Q2 涨 50% 到 60%，之后每季 10% 左右"
+  },
+  "8b84860224d9": {
+   "file": "2026-10-25/8b84860224d9.m4a",
+   "dur": 72.4,
+   "title": "haogetruth 看空 neocloud、看多 SpaceX：「最终赢家可能又是 Musk」"
+  },
+  "aebb5fafd933": {
+   "file": "2026-10-25/aebb5fafd933.m4a",
+   "dur": 114.6,
+   "title": "@aaronburnett 看多 $SPCX：唯一站得住的空头理由是 agent 需求接近 S 曲线拐点"
+  },
+  "85c59b1f10df": {
+   "file": "2026-10-25/85c59b1f10df.m4a",
+   "dur": 97.3,
+   "title": "FundaAI 看多 $MSFT 的 FY1Q27：GPT-5.6 让 Copilot 变好，Azure 预计超指引；同时追问 $GOOG 为什么预期涨股价不涨"
+  }
+ }
+}

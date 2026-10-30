@@ -1,0 +1,225 @@
+{
+ "voice": "Serena",
+ "items": {
+  "9a1d95439454": {
+   "file": "2026-10-22/9a1d95439454.m4a",
+   "dur": 92.7,
+   "title": "PHP2Shell：OpenAI 牵头静默修补约两个月，NSA 说「修不了就把系统下线」"
+  },
+  "7ed48f0f1571": {
+   "file": "2026-10-22/7ed48f0f1571.m4a",
+   "dur": 85.2,
+   "title": "补丁没发细节先泄？编号周二就在网上流传，功劳也有两家在争"
+  },
+  "149d080ad80c": {
+   "file": "2026-10-22/149d080ad80c.m4a",
+   "dur": 96.6,
+   "title": "各地「集体下线」的清单满天飞，但 AINews 说没有一条被原始通告证实"
+  },
+  "5cb1799c1da3": {
+   "file": "2026-10-22/5cb1799c1da3.m4a",
+   "dur": 107.5,
+   "title": "一晚上四个雷：PHP、Node.js、eMudhra 证书、Railway"
+  },
+  "f6c431c792c6": {
+   "file": "2026-10-22/f6c431c792c6.m4a",
+   "dur": 94.8,
+   "title": "Railway 被黑：Anthropic 和 Stripe 的邮件先到，平台自己晚了一小时才承认"
+  },
+  "517fa222bd60": {
+   "file": "2026-10-22/517fa222bd60.m4a",
+   "dur": 83.1,
+   "title": "CyberCartel：黑客把 Claude 当「指挥官」，Grok 做情报，Kimi 当后备，打了 400 多家拉美金融机构"
+  },
+  "ed5db49f1cc9": {
+   "file": "2026-10-22/ed5db49f1cc9.m4a",
+   "dur": 90.9,
+   "title": "Altman 内部讲「pacing 2.0」：想给能自我改进的 AI 设上限，还提过把最大几家实验室合并"
+  },
+  "624d4c3e45d0": {
+   "file": "2026-10-22/624d4c3e45d0.m4a",
+   "dur": 85.8,
+   "title": "模型小道消息两则：Qwen 4 明天发？Sol 只有 300B？"
+  },
+  "01dd2a7478da": {
+   "file": "2026-10-22/01dd2a7478da.m4a",
+   "dur": 135.4,
+   "title": "华为升腾团队驻场 DeepSeek「毫无保留支持」？中文圈在传，SemiAnalysis 同时拆了块 950PR"
+  },
+  "ff6d1f904849": {
+   "file": "2026-10-22/ff6d1f904849.m4a",
+   "dur": 53.4,
+   "title": "@local0ptimist 官宣加入 Google DeepMind，岗位是 forward deployed engineer"
+  },
+  "1b28bb815039": {
+   "file": "2026-10-22/1b28bb815039.m4a",
+   "dur": 51.2,
+   "title": "Karan Ahuja 官宣加入 Anthropic，称自己的团队做出了 Claude Duet"
+  },
+  "eb879924f537": {
+   "file": "2026-10-22/eb879924f537.m4a",
+   "dur": 83.6,
+   "title": "谁该拿 PHP 的功劳：OpenAI、Google/Wiz，还是「Anthropic 零贡献」？"
+  },
+  "e35942961523": {
+   "file": "2026-10-22/e35942961523.m4a",
+   "dur": 81.6,
+   "title": "Claude Code 额度「5 倍速消耗」，Boris Cherny 回「我们这边没改」"
+  },
+  "99d4dfd19b0f": {
+   "file": "2026-10-22/99d4dfd19b0f.m4a",
+   "dur": 85.1,
+   "title": "DeepInfer「每卡每小时赚多少」吵成一团，SemiAnalysis 被批拿收入比利润"
+  },
+  "17196f47ae4e": {
+   "file": "2026-10-22/17196f47ae4e.m4a",
+   "dur": 96.7,
+   "title": "「DeepSeek 是中国政府的阴谋」？teortaxes：吃药去，但有一个更冷的读法"
+  },
+  "1cb17af5e75e": {
+   "file": "2026-10-22/1cb17af5e75e.m4a",
+   "dur": 57.5,
+   "title": "Linux 内核不再要求声明 AI 辅助？Torvalds 合并记录的截图传开了"
+  },
+  "0f3e7d7529e7": {
+   "file": "2026-10-22/0f3e7d7529e7.m4a",
+   "dur": 67.5,
+   "title": "Claude Duet 开放研究预览：Opus 5.5 驱动的「主动型」个人 agent"
+  },
+  "25e0ccad8c42": {
+   "file": "2026-10-22/25e0ccad8c42.m4a",
+   "dur": 89.3,
+   "title": "一天之内 Dot、Bot、Muse、Duet 开始混战，「主动型 agent」成了新赛道"
+  },
+  "cb3c30127fb6": {
+   "file": "2026-10-22/cb3c30127fb6.m4a",
+   "dur": 77.8,
+   "title": "Codex 额度「重置日」：Tibo 发了 Day 17，xiaohu 提前押中「明天才重置」，另有一句没头没尾的「Lands tomorrow before 10am PST」"
+  },
+  "81db8f305f3e": {
+   "file": "2026-10-22/81db8f305f3e.m4a",
+   "dur": 47.0,
+   "title": "Gemini 4 Argon 上线 72 小时处理约 25 万亿 token"
+  },
+  "5e3a20667c20": {
+   "file": "2026-10-22/5e3a20667c20.m4a",
+   "dur": 89.5,
+   "title": "Recursive 发布 Flint：40B 总参数、2.5B 激活的本地编程 MoE，另有 Step 5 Preview 上线 GMI Cloud"
+  },
+  "5b55b11331eb": {
+   "file": "2026-10-22/5b55b11331eb.m4a",
+   "dur": 66.2,
+   "title": "Ethan Mollick：这是 AI 内部人士从 Mythos 发布起就在警告的「肉眼可见的信号」"
+  },
+  "f6ffd363f998": {
+   "file": "2026-10-22/f6ffd363f998.m4a",
+   "dur": 86.8,
+   "title": "Joshua Achiam：「像 2020 年 3 月 1 号的网络安全」，Curran 回「It has begun」"
+  },
+  "4e1da437f899": {
+   "file": "2026-10-22/4e1da437f899.m4a",
+   "dur": 61.4,
+   "title": "Sundar Pichai 接受 Alex Heath 采访：「连 Google 都买不到足够算力」，还聊了 DeepMind 的人事调整"
+  },
+  "c81f9a38fec2": {
+   "file": "2026-10-22/c81f9a38fec2.m4a",
+   "dur": 55.0,
+   "title": "Anthropic 可解释性研究员 Emmanuel Ameisen：从外面看 AI 进步是大跳跃，内部其实很平滑"
+  },
+  "f6fd9d331e0e": {
+   "file": "2026-10-22/f6fd9d331e0e.m4a",
+   "dur": 77.0,
+   "title": "Anthropic 招股书数字再被转述一遍"
+  },
+  "03cb83872535": {
+   "file": "2026-10-22/03cb83872535.m4a",
+   "dur": 56.3,
+   "title": "DeepSeek 又融 150 亿美元？「鲸鱼」四个月累计 1500 亿人民币"
+  },
+  "40502e1344b9": {
+   "file": "2026-10-22/40502e1344b9.m4a",
+   "dur": 72.6,
+   "title": "Nvidia 为 AI 云厂商和数据中心承诺的投资、担保等支持已超 1700 亿美元；中国三巨头据称下了 350 亿美元订单"
+  },
+  "77a7957b12b7": {
+   "file": "2026-10-22/77a7957b12b7.m4a",
+   "dur": 51.2,
+   "title": "Stratechery × Stripe 官宣赞助合作"
+  },
+  "af2b13a0890f": {
+   "file": "2026-10-22/af2b13a0890f.m4a",
+   "dur": 54.0,
+   "title": "Mirendil 自称一个研究员 3.5 个月、不到 1000 万美元算力做出 base 模型"
+  },
+  "38a63830079b": {
+   "file": "2026-10-22/38a63830079b.m4a",
+   "dur": 61.1,
+   "title": "「Anthropic 的 Dario 在百度受过气所以反华」？有人出来细讲当年的百度美研"
+  },
+  "7c0dc44da6b4": {
+   "file": "2026-10-22/7c0dc44da6b4.m4a",
+   "dur": 64.6,
+   "title": "姚顺雨「把 DeepSeek 卷到加班」的内部讲话被曝光？"
+  },
+  "005fc7ddaae9": {
+   "file": "2026-10-22/005fc7ddaae9.m4a",
+   "dur": 57.1,
+   "title": "Claude Code 从零在 Blender 里搭出天坛祈年殿"
+  },
+  "cb59cb425d8a": {
+   "file": "2026-10-22/cb59cb425d8a.m4a",
+   "dur": 64.6,
+   "title": "「给电视去广告」成了中文圈新玩具，op7418 把 Codex 接到了电视上直接聊天"
+  },
+  "7d3f09fb2d6d": {
+   "file": "2026-10-22/7d3f09fb2d6d.m4a",
+   "dur": 34.9,
+   "title": "「问题的严重程度分别是轻度、中度、重度和印度」"
+  },
+  "bacb0a12c225": {
+   "file": "2026-10-22/bacb0a12c225.m4a",
+   "dur": 63.6,
+   "title": "网文式重生小说《PHP2Shell》"
+  },
+  "74d598b797e6": {
+   "file": "2026-10-22/74d598b797e6.m4a",
+   "dur": 57.5,
+   "title": "「用 RCE 给全世界服务器自动打补丁」和「总统特赦」"
+  },
+  "36d690921fbe": {
+   "file": "2026-10-22/36d690921fbe.m4a",
+   "dur": 56.5,
+   "title": "Alex Heath 的嘉宾名单被排成「无限宝石」"
+  },
+  "ae364e9dc2e4": {
+   "file": "2026-10-22/ae364e9dc2e4.m4a",
+   "dur": 59.4,
+   "title": "Tesla 财报电话会被评「F-」，Elon 回「we will make it more entertaining next time」"
+  },
+  "902d13cf833a": {
+   "file": "2026-10-22/902d13cf833a.m4a",
+   "dur": 90.3,
+   "title": "@wintonARK 算 SpaceX 与 Tesla 合并账：2031 年双方股东分别多赚约 1.6 倍和 2 倍"
+  },
+  "6c09c7aca6c5": {
+   "file": "2026-10-22/6c09c7aca6c5.m4a",
+   "dur": 76.2,
+   "title": "Morgan Stanley 的 Adam Jonas 看多 $SPCX：市场还把它当成 neocloud，其实是全栈 AI 玩家"
+  },
+  "ca5aad4f0fcd": {
+   "file": "2026-10-22/ca5aad4f0fcd.m4a",
+   "dur": 72.0,
+   "title": "SemiAnalysis：GB300 每 GPU 小时利润 50 美元，对比 DeepSeek 非高峰 39 美元，「COMPUTE IS REVENUE」"
+  },
+  "8bbd96838fc8": {
+   "file": "2026-10-22/8bbd96838fc8.m4a",
+   "dur": 59.1,
+   "title": "@aleabitoreddit 晒十月个人回撤：「minor volatility in October」"
+  },
+  "8d130f691f55": {
+   "file": "2026-10-22/8d130f691f55.m4a",
+   "dur": 34.2,
+   "title": "@haogetruth 的 $META：「人送外号：渣男」"
+  }
+ }
+}

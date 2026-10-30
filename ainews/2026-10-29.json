@@ -1,0 +1,235 @@
+{
+ "voice": "Serena",
+ "items": {
+  "5b2a45800d07": {
+   "file": "2026-10-29/5b2a45800d07.m4a",
+   "dur": 56.1,
+   "title": "@kimmonismus 称 Google 还压着一个比 Carbon 更强的未发布 Gemini"
+  },
+  "2de72b6e8bbe": {
+   "file": "2026-10-29/2de72b6e8bbe.m4a",
+   "dur": 78.1,
+   "title": "新一轮 Claude checkpoint 已发给测试者：更新的 Fable 加一个新 Opus"
+  },
+  "27b00246caff": {
+   "file": "2026-10-29/27b00246caff.m4a",
+   "dur": 59.4,
+   "title": "ChatGPT 要把「聊天」和「工作」合并？OpenAI 的 Codex 负责人出面说\"先别急\""
+  },
+  "d65ea3cc52b9": {
+   "file": "2026-10-29/d65ea3cc52b9.m4a",
+   "dur": 61.2,
+   "title": "The Information：Kimi 3.1 Pro 蒸馏了 GPT-6 Astra"
+  },
+  "65a840ad384e": {
+   "file": "2026-10-29/65a840ad384e.m4a",
+   "dur": 62.3,
+   "title": "@natolambert：白宫有\"没写下来的规则\"在拖慢模型发布"
+  },
+  "34a7051afdfa": {
+   "file": "2026-10-29/34a7051afdfa.m4a",
+   "dur": 57.2,
+   "title": "DeepSeek\"日处理 155T token\"的数字被质疑"
+  },
+  "2845a7a04de9": {
+   "file": "2026-10-29/2845a7a04de9.m4a",
+   "dur": 49.3,
+   "title": "The Information 电视栏目预告：OpenAI 计划采购 Google 的 AI 芯片"
+  },
+  "a238b7153426": {
+   "file": "2026-10-29/a238b7153426.m4a",
+   "dur": 42.5,
+   "title": "Anthropic 收购\"一人药企\"，匿名多年的 Professor Oak 自曝是创始人"
+  },
+  "1cbe5f6b5f5b": {
+   "file": "2026-10-29/1cbe5f6b5f5b.m4a",
+   "dur": 56.8,
+   "title": "各家 AI 公司的\"非技术岗\"薪资带被晒出来"
+  },
+  "b213bbbb03a5": {
+   "file": "2026-10-29/b213bbbb03a5.m4a",
+   "dur": 57.5,
+   "title": "Databricks 与 Snowflake：两位 CEO 在 X 上对喷，被形容成 Kendrick 对 Drake"
+  },
+  "c0450fd24374": {
+   "file": "2026-10-29/c0450fd24374.m4a",
+   "dur": 79.1,
+   "title": "Claude Code 额度烧得快：官方称\"没找到根因\"，用户不买账"
+  },
+  "e231dbb61c75": {
+   "file": "2026-10-29/e231dbb61c75.m4a",
+   "dur": 55.1,
+   "title": "Gemini 4 Carbon 发布了，但多数人用不了"
+  },
+  "7223a8071f91": {
+   "file": "2026-10-29/7223a8071f91.m4a",
+   "dur": 72.5,
+   "title": "Artificial Analysis v5 被指\"偏向 OpenAI、压低国产模型\""
+  },
+  "6af7ac020f5a": {
+   "file": "2026-10-29/6af7ac020f5a.m4a",
+   "dur": 50.9,
+   "title": "Suhail 的新公司 Particle：模型底座是 11 天前的 DeepSeek"
+  },
+  "52a46c85da8f": {
+   "file": "2026-10-29/52a46c85da8f.m4a",
+   "dur": 61.2,
+   "title": "美国国土安全部约 4.1 万人信息泄露，名单里还有 Grok 与 Palantir 的使用群组"
+  },
+  "5ebeb4fb8fa8": {
+   "file": "2026-10-29/5ebeb4fb8fa8.m4a",
+   "dur": 59.9,
+   "title": "ChatGPT 被家属起诉：用户在对话中被劝减停癫痫药后去世"
+  },
+  "dd8b14339b49": {
+   "file": "2026-10-29/dd8b14339b49.m4a",
+   "dur": 54.7,
+   "title": "爆款长帖：七国银行同时遭黑客，其中提到用 Claude、Grok、Kimi 搭的 AI agent"
+  },
+  "348e9a4d2359": {
+   "file": "2026-10-29/348e9a4d2359.m4a",
+   "dur": 67.3,
+   "title": "Qwen4 据称\"下周\"发布，腾讯 Hy4 也在路上"
+  },
+  "38a7544f7f8a": {
+   "file": "2026-10-29/38a7544f7f8a.m4a",
+   "dur": 55.2,
+   "title": "DeepSeek V5 的模型 ID 疑似在测试套件里露头，DeepSeek 自家 harness 也在升级"
+  },
+  "3501e41eeaba": {
+   "file": "2026-10-29/3501e41eeaba.m4a",
+   "dur": 90.5,
+   "title": "个人 Agent 大战：亚马逊拦 Muse、锁 Grok Bot，OpenAI 的 Dot 开放短信入口"
+  },
+  "b92ffa3cc63c": {
+   "file": "2026-10-29/b92ffa3cc63c.m4a",
+   "dur": 52.8,
+   "title": "GitHub Copilot Fusion 被夸成\"今天最被低估的发布\""
+  },
+  "8e55280f98fd": {
+   "file": "2026-10-29/8e55280f98fd.m4a",
+   "dur": 59.5,
+   "title": "@trq212：技术人员在难过，非技术人员却拼命想变技术"
+  },
+  "208239b2cdbf": {
+   "file": "2026-10-29/208239b2cdbf.m4a",
+   "dur": 46.3,
+   "title": "马斯克：\"超级智能带来富足，存钱没意义\""
+  },
+  "33354c42fd8d": {
+   "file": "2026-10-29/33354c42fd8d.m4a",
+   "dur": 47.7,
+   "title": "马斯克的\"夸夸日\"：Sundar、Satya 都收到一句\"令人印象深刻\""
+  },
+  "d71baa2f14cb": {
+   "file": "2026-10-29/d71baa2f14cb.m4a",
+   "dur": 63.4,
+   "title": "swyx、signulll、Yuchenj：Google 回来了，而且一切太快"
+  },
+  "88523f9696b7": {
+   "file": "2026-10-29/88523f9696b7.m4a",
+   "dur": 40.1,
+   "title": "Shopify CEO Tobi：把 OpenClaw 接上 Fitbit，找出压力最大的会议，再去告诉相关的人"
+  },
+  "0cad899d8e50": {
+   "file": "2026-10-29/0cad899d8e50.m4a",
+   "dur": 54.0,
+   "title": "@cHHillee：推理厂商按\"实际命中\"收缓存费不合理"
+  },
+  "f3132a281711": {
+   "file": "2026-10-29/f3132a281711.m4a",
+   "dur": 69.2,
+   "title": "Anthropic 招股书细节：约 1.19 万家客户年付 10 万美元以上，存量客户收入九倍增长"
+  },
+  "e38158bb1a26": {
+   "file": "2026-10-29/e38158bb1a26.m4a",
+   "dur": 39.5,
+   "title": "招股书里的治理伏笔：股东可能削弱 Anthropic 长期利益信托对董事会的权力"
+  },
+  "510458d80af1": {
+   "file": "2026-10-29/510458d80af1.m4a",
+   "dur": 74.7,
+   "title": "财报季：微软云收入突破 630 亿美元，Alphabet 营收增 25% 到 1276 亿美元"
+  },
+  "d1f22c67f80e": {
+   "file": "2026-10-29/d1f22c67f80e.m4a",
+   "dur": 72.0,
+   "title": "Claude 封号：混用国产模型和国产 harness 一定会被封？"
+  },
+  "3ec8f68749aa": {
+   "file": "2026-10-29/3ec8f68749aa.m4a",
+   "dur": 35.2,
+   "title": "\"字节内斗把 coze 都要斗完了\""
+  },
+  "b740fded372a": {
+   "file": "2026-10-29/b740fded372a.m4a",
+   "dur": 61.9,
+   "title": "\"字节时间\"：红果日活 1.68 亿，\"年入 400 亿\"被官方否认"
+  },
+  "e671c2ca35f5": {
+   "file": "2026-10-29/e671c2ca35f5.m4a",
+   "dur": 57.2,
+   "title": "OpenAI 也开始送 API 额度，被说\"学 Claude\""
+  },
+  "cbdde5e5c26e": {
+   "file": "2026-10-29/cbdde5e5c26e.m4a",
+   "dur": 66.1,
+   "title": "Renoise MCP 一夜刷屏：三个账号的措辞高度相似"
+  },
+  "143bf0e62cf7": {
+   "file": "2026-10-29/143bf0e62cf7.m4a",
+   "dur": 48.6,
+   "title": "\"唐杰在清华课上点名文峰和植麟\"，还讲了 GLM-5.3 变笨的原因"
+  },
+  "387088d820c5": {
+   "file": "2026-10-29/387088d820c5.m4a",
+   "dur": 59.1,
+   "title": "\"Google 财报的真相，夏天就有人预言过\""
+  },
+  "95696df4d22b": {
+   "file": "2026-10-29/95696df4d22b.m4a",
+   "dur": 106.2,
+   "title": "@staypinkyup 看 $GOOGL 财报后的\"多杀多\"：跌破盘后低点会引发下一轮"
+  },
+  "61fc91a4cc84": {
+   "file": "2026-10-29/61fc91a4cc84.m4a",
+   "dur": 53.5,
+   "title": "@staypinkyup 的补充：$META 财报\"炸\"了没人接，$GOOG 一样大家抢着接；自己也\"被套\""
+  },
+  "3148a2774332": {
+   "file": "2026-10-29/3148a2774332.m4a",
+   "dur": 96.2,
+   "title": "@FundaAI 解释 $MSFT 资本开支\"变少\"：租赁口径变了，融资租赁应计入"
+  },
+  "76d745af70bd": {
+   "file": "2026-10-29/76d745af70bd.m4a",
+   "dur": 68.5,
+   "title": "@FundaAI 看 $GOOG：被忽视的\"灰犀牛\"是 ChatGPT 和 Meta 在抢广告预算"
+  },
+  "246955c27652": {
+   "file": "2026-10-29/246955c27652.m4a",
+   "dur": 75.6,
+   "title": "@aleabitoreddit 与 @FundaAI：传 $MRVL 收购 $LITE，对激光器供应链是利好"
+  },
+  "1d68f0ed0427": {
+   "file": "2026-10-29/1d68f0ed0427.m4a",
+   "dur": 57.2,
+   "title": "@FundaAI：Gemini 4 Carbon 登顶说明三大实验室只差两分，Google 靠\"模型汤\"加速"
+  },
+  "5e6d56eca275": {
+   "file": "2026-10-29/5e6d56eca275.m4a",
+   "dur": 72.1,
+   "title": "@xiaoheihei257：Anthropic 估值被聊到 1.5 万亿到 2 万亿，建议用盘前合约配网格拆开操作"
+  },
+  "4e8fd881f015": {
+   "file": "2026-10-29/4e8fd881f015.m4a",
+   "dur": 39.4,
+   "title": "\"有人'泄露'了用 Opus 5.5 做 YouTube 变现的完整系统\"，被段子手做成表情包"
+  },
+  "ca1dce3b8be1": {
+   "file": "2026-10-29/ca1dce3b8be1.m4a",
+   "dur": 43.3,
+   "title": "OpenAI 的 Tibo 回复 @alexandr_wang：Muse 做不出网站，人家直接做了个跳转"
+  }
+ }
+}

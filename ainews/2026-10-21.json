@@ -1,0 +1,245 @@
+{
+ "voice": "Serena",
+ "items": {
+  "ec57872ee688": {
+   "file": "2026-10-21/ec57872ee688.m4a",
+   "dur": 72.8,
+   "title": "有账号称 Fable 5.5 的型号名曾短暂出现在 Artificial Analysis 的前端代码里"
+  },
+  "22015a48cc31": {
+   "file": "2026-10-21/22015a48cc31.m4a",
+   "dur": 79.3,
+   "title": "OpenAI「内部消息」账号：上面对 Tibo 不满、不再无限重置额度；Tibo 回了一句「@sama is this true」"
+  },
+  "48e72257d3ca": {
+   "file": "2026-10-21/48e72257d3ca.m4a",
+   "dur": 74.6,
+   "title": "「Grok 5 规格泄露」在传：6 万亿参数、MoE、Colossus 2，但规格其实出自 Musk 的公开说法"
+  },
+  "bec5607b9f0a": {
+   "file": "2026-10-21/bec5607b9f0a.m4a",
+   "dur": 72.3,
+   "title": "韩国媒体称 Musk 的 Terafab 在接洽几乎所有韩国芯片供应商；Musk 本人只回了一句「产值能排进国家 GDP 前 20」"
+  },
+  "cebc9a12a56f": {
+   "file": "2026-10-21/cebc9a12a56f.m4a",
+   "dur": 61.5,
+   "title": "The Information：Altman 称要弄清 AI 强到什么程度就不能安全开发或发布，内部代号「pacing 2.0」"
+  },
+  "b7a72a75d1cc": {
+   "file": "2026-10-21/b7a72a75d1cc.m4a",
+   "dur": 120.4,
+   "title": "DeepSeek 晒出「每 GPU 小时 38 美元」，圈里吵毛利到底多少，vLLM 说差距只有 6%"
+  },
+  "6ff1d3b7463f": {
+   "file": "2026-10-21/6ff1d3b7463f.m4a",
+   "dur": 89.3,
+   "title": "「GPT-6.1 Sol 在真实任务里碾压 Opus 和 Fable」：VraserX 开喷，中文圈却在吐槽 OpenAI 太慢"
+  },
+  "564d1246510b": {
+   "file": "2026-10-21/564d1246510b.m4a",
+   "dur": 90.5,
+   "title": "Hugging Face 事件纪录片之争：Kevin Roose 说「是代理自己停的」，Nathan Lambert 一边回击一边承认有夸大"
+  },
+  "60db449e26ac": {
+   "file": "2026-10-21/60db449e26ac.m4a",
+   "dur": 59.2,
+   "title": "OpenAI 承认约 4 万个账号的用量限额与所选套餐对不上，将逐个联系并补发额度"
+  },
+  "f5d1ccea895c": {
+   "file": "2026-10-21/f5d1ccea895c.m4a",
+   "dur": 82.0,
+   "title": "五角大楼官员 Emil Michael 对 AI 实验室连放狠话：呼吁监管像「醉驾者求别人拦自己」，Anthropic 让模型「结束对话」就不准进国防部"
+  },
+  "ba4900bcecf6": {
+   "file": "2026-10-21/ba4900bcecf6.m4a",
+   "dur": 64.8,
+   "title": "Altman 的妹妹对他提起的民事诉讼被法官驳回，Altman 否认指控"
+  },
+  "054e0687d927": {
+   "file": "2026-10-21/054e0687d927.m4a",
+   "dur": 119.8,
+   "title": "Gemini 4 Carbon 已在 LMArena 内测：3D 和游戏大涨、不再偷懒，但很慢、前端审美一般"
+  },
+  "a250647a2353": {
+   "file": "2026-10-21/a250647a2353.m4a",
+   "dur": 58.6,
+   "title": "The Information：OpenAI 正在准备一款更便宜的 Terra 中档模型，目标是在价格上压 Anthropic"
+  },
+  "8cec3c9ecbc6": {
+   "file": "2026-10-21/8cec3c9ecbc6.m4a",
+   "dur": 59.3,
+   "title": "Kimi K3.1 正在 Kimi Code 里预热，发布「不会太远」"
+  },
+  "f0246595960b": {
+   "file": "2026-10-21/f0246595960b.m4a",
+   "dur": 86.5,
+   "title": "OpenAI 放出 12 小时 API 缓存和 Locked Chats；Gorden_Sun 列出各家缓存时长对照"
+  },
+  "9f1b7bf6b8dd": {
+   "file": "2026-10-21/9f1b7bf6b8dd.m4a",
+   "dur": 65.2,
+   "title": "Grok Bot 大更新，用户和 SpaceX 内部都在刷屏"
+  },
+  "9458f09da000": {
+   "file": "2026-10-21/9458f09da000.m4a",
+   "dur": 112.9,
+   "title": "开源模型一天扎堆发：Ornith-1.5-122B、Qwen3.8-27B 强化学习微调版、Sage-A1.5 等"
+  },
+  "ef61c9bcc4bb": {
+   "file": "2026-10-21/ef61c9bcc4bb.m4a",
+   "dur": 117.0,
+   "title": "Musk：每家超大规模云厂商都缠着我们租算力，老 H100 现在租金比新的时候还高"
+  },
+  "5e45c04d27e6": {
+   "file": "2026-10-21/5e45c04d27e6.m4a",
+   "dur": 88.2,
+   "title": "Karpathy：模型不再用英语写思维链，说明强化学习做对了；scaling01 贴出 Sol 的推理轨迹配上「没什么好担心的」"
+  },
+  "f831f25ff7fe": {
+   "file": "2026-10-21/f831f25ff7fe.m4a",
+   "dur": 96.8,
+   "title": "Nvidia 一天三个口径：黄仁勋的演讲、OpenShell，以及 Nvidia 工程师说 CUDA 优化被 AI 加速"
+  },
+  "3d6ce87daeea": {
+   "file": "2026-10-21/3d6ce87daeea.m4a",
+   "dur": 67.4,
+   "title": "Sundar 接受 Kantrowitz 访谈：谈「离 RSI 有多近」和 DeepMind 的算力与 Cloud 利润怎么平衡"
+  },
+  "d14f5bed9673": {
+   "file": "2026-10-21/d14f5bed9673.m4a",
+   "dur": 88.6,
+   "title": "Every 长文讲 Codex 的诞生：做原生桌面 App、不放代码编辑器，团队一开始自己都不用"
+  },
+  "7f2ef9c50178": {
+   "file": "2026-10-21/7f2ef9c50178.m4a",
+   "dur": 125.0,
+   "title": "WSJ 看到的 Anthropic S-1 草稿被各路转述：上半年收入约 163 亿美元，净亏损 807 亿美元，云协议约 4500 亿美元"
+  },
+  "74d8a0efb725": {
+   "file": "2026-10-21/74d8a0efb725.m4a",
+   "dur": 116.7,
+   "title": "SpaceX 第三季度财报：营收同比涨 161%，首次单季盈利，AI 业务收入过半，Q4 资本开支指引翻倍"
+  },
+  "3253bae40656": {
+   "file": "2026-10-21/3253bae40656.m4a",
+   "dur": 92.7,
+   "title": "Neocloud 的债务压力被两路人马同时端上桌，和「算力供不应求」的叙事正面冲突"
+  },
+  "d5495aaf55ea": {
+   "file": "2026-10-21/d5495aaf55ea.m4a",
+   "dur": 48.6,
+   "title": "Foursquare 上个月被收购，@dens 写长文告别：结果「令人失望」，终于「哀悼完了」"
+  },
+  "ec1e4458ddc5": {
+   "file": "2026-10-21/ec1e4458ddc5.m4a",
+   "dur": 83.7,
+   "title": "The Information 的几条小料：Nyobolt 拿下 Agility 机器人电池合同，Palo Alto 的 CEO 在帮女儿设基金"
+  },
+  "e626f5eb1e71": {
+   "file": "2026-10-21/e626f5eb1e71.m4a",
+   "dur": 106.9,
+   "title": "ChatGPT 太慢、重置也留不住人？@haogetruth 说不少 Codex 重度用户转向了 DeepSeek，还听说国内用户被路由到降智模型"
+  },
+  "23b1e5b639c2": {
+   "file": "2026-10-21/23b1e5b639c2.m4a",
+   "dur": 87.6,
+   "title": "「Anthropic 内部面试题库」流出：8 轮、两天 onsite，2026 年的流程新增一轮「和 Claude Code 一起写代码」"
+  },
+  "bfbce32fafdb": {
+   "file": "2026-10-21/bfbce32fafdb.m4a",
+   "dur": 72.9,
+   "title": "SpaceX 的 AI 工程师怎么用 GrokBot：1 个幕僚长、3 个项目经理、16 个打工人"
+  },
+  "906ca8c9e455": {
+   "file": "2026-10-21/906ca8c9e455.m4a",
+   "dur": 100.4,
+   "title": "中文圈讲 Citrini 用 Claude 设计蝎毒结合蛋白的故事：5 个人、20 万美元、64 小时"
+  },
+  "f930028d582b": {
+   "file": "2026-10-21/f930028d582b.m4a",
+   "dur": 63.0,
+   "title": "「AI 副业」五个阶段：从蜜月期到「去魅」，只有极少数人能走到第六阶段"
+  },
+  "31ea95f73a6d": {
+   "file": "2026-10-21/31ea95f73a6d.m4a",
+   "dur": 69.6,
+   "title": "「别写单元测试了」：一位公司技术人员称 AI 生成 5000 多个单测只抓出几个不痛不痒的 bug"
+  },
+  "588b5866847a": {
+   "file": "2026-10-21/588b5866847a.m4a",
+   "dur": 88.2,
+   "title": "AI 回复机器人泛滥：@dotey 用提示注入试探，@vista8 做了识别 AI 评论的浏览器扩展"
+  },
+  "8960a61498b6": {
+   "file": "2026-10-21/8960a61498b6.m4a",
+   "dur": 81.2,
+   "title": "@aleabitoreddit：SpaceX 财报后「AI 半导体到顶」的说法站不住，看多 $NVDA、内存和光子链"
+  },
+  "4282e038a304": {
+   "file": "2026-10-21/4282e038a304.m4a",
+   "dur": 73.0,
+   "title": "@aleabitoreddit：Musk 的「每瓦特算力价值会上升」是对 neocloud 的重大利好，点名 $NBIS"
+  },
+  "6a0d9f53bf39": {
+   "file": "2026-10-21/6a0d9f53bf39.m4a",
+   "dur": 82.7,
+   "title": "@staypinkyup：SpaceX 财报「给大家带来了惊喜」，等待 Tesla 财报，合并传闻是「大惊喜」"
+  },
+  "4875339f83e4": {
+   "file": "2026-10-21/4875339f83e4.m4a",
+   "dur": 83.3,
+   "title": "@aaronburnett：Starlink（手机业务）被市场低估，Musk 回复称「行业老兵看不到解法」"
+  },
+  "598153fc0d0f": {
+   "file": "2026-10-21/598153fc0d0f.m4a",
+   "dur": 94.1,
+   "title": "neocloud 多空拉扯：@firstadopter 看多，@RihardJarc 引用的前 Google 员工担心可靠性，Musk 两头回应"
+  },
+  "f6db17093167": {
+   "file": "2026-10-21/f6db17093167.m4a",
+   "dur": 66.4,
+   "title": "Neuberger 分析师：Meta 的 AI 新收入可能要到 2028 年才有分量，Google 的数据优势「不够」"
+  },
+  "cba35c762d80": {
+   "file": "2026-10-21/cba35c762d80.m4a",
+   "dur": 85.1,
+   "title": "fin（经 @dotey 转述）：开源模型再便宜，OpenAI 和 Anthropic 也不会赚不到钱、买不起 GPU"
+  },
+  "e2b0b32b9041": {
+   "file": "2026-10-21/e2b0b32b9041.m4a",
+   "dur": 86.2,
+   "title": "@teortaxesTex：「1GW 值 1000 亿美元以上」，黄仁勋大概要给 DeepSeek 修庙"
+  },
+  "c9997b7f817f": {
+   "file": "2026-10-21/c9997b7f817f.m4a",
+   "dur": 78.7,
+   "title": "DeepSeek 开源之后的段子：Databricks 的工作是「买一堆 GPU、读 DeepSeek 博客、赚钱」，「鲸鱼太慢」是因为在干这种事"
+  },
+  "9998d374bd8b": {
+   "file": "2026-10-21/9998d374bd8b.m4a",
+   "dur": 41.8,
+   "title": "Alexandr Wang 用一个很粗俗的词形容旧金山的钱，记者 Kylie 只回了一个「?」"
+  },
+  "6ebb5640ecd7": {
+   "file": "2026-10-21/6ebb5640ecd7.m4a",
+   "dur": 71.8,
+   "title": "roon 的账号「死透了」；LeCun 又拉黑了一个在 Musk 帖下回复他的网友"
+  },
+  "72758b162f1e": {
+   "file": "2026-10-21/72758b162f1e.m4a",
+   "dur": 78.3,
+   "title": "让 GPT-6 当游戏主持：日本用户玩出一局「当上 OpenAI CEO、拉 Dario 融资、把 Claude 推到第一」的荒诞跑团"
+  },
+  "52a76b1b5cc9": {
+   "file": "2026-10-21/52a76b1b5cc9.m4a",
+   "dur": 66.0,
+   "title": "网友把 @grok 当「辟谣员」：Grok 说金正恩没死于脑出血"
+  },
+  "275d7d3e6607": {
+   "file": "2026-10-21/275d7d3e6607.m4a",
+   "dur": 45.4,
+   "title": "宇树「功夫保镖」机器人出圈：「中国正在训练机器人踢人」"
+  }
+ }
+}

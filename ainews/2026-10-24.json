@@ -1,0 +1,250 @@
+{
+ "voice": "Serena",
+ "items": {
+  "1f958757b4da": {
+   "file": "2026-10-24/1f958757b4da.m4a",
+   "dur": 87.2,
+   "title": "@ArfurGrok 的「离职雷达」又灵了：Thariq 要走的消息，比本人声明早了约四个小时"
+  },
+  "2bed449c87be": {
+   "file": "2026-10-24/2bed449c87be.m4a",
+   "dur": 69.8,
+   "title": "OpenAI 把估值目标降到 1.25 万亿美元？The Information：投资人压价"
+  },
+  "408741fb5535": {
+   "file": "2026-10-24/408741fb5535.m4a",
+   "dur": 55.7,
+   "title": "Steph Palazzolo 转「biiiiig scoop」，署名里有一位的「swan song」"
+  },
+  "ec21167355da": {
+   "file": "2026-10-24/ec21167355da.m4a",
+   "dur": 64.5,
+   "title": "Texas 总检察长 Ken Paxton 起诉 OpenAI 和 Sam Altman？目前只有一个来源"
+  },
+  "0131257850fa": {
+   "file": "2026-10-24/0131257850fa.m4a",
+   "dur": 93.0,
+   "title": "Thariq Shihipar（@trq212）宣布离开 Anthropic：「一年多来看着 Claude Code 长到超出想象」，先休息，再做新东西"
+  },
+  "5cad5c0b2895": {
+   "file": "2026-10-24/5cad5c0b2895.m4a",
+   "dur": 70.2,
+   "title": "Anthony Morris（@amorriscode）确认离职：「Yesterday was my last day at Anthropic」，下一步「soon」公布"
+  },
+  "01fdbe5d2847": {
+   "file": "2026-10-24/01fdbe5d2847.m4a",
+   "dur": 52.0,
+   "title": "Sunil Pai 去了 Anthropic？@swyx 回：「fake news btw i got him」"
+  },
+  "0e35d7ecbdd1": {
+   "file": "2026-10-24/0e35d7ecbdd1.m4a",
+   "dur": 71.1,
+   "title": "Sundar Pichai 解释 Demis「退居」和 Jeff Dean 离开：「自然的演进」，前沿模型研发已是一份吞掉全部精力的工作"
+  },
+  "21f43a3b3e44": {
+   "file": "2026-10-24/21f43a3b3e44.m4a",
+   "dur": 84.3,
+   "title": "被 OpenAI 开除的三位研究员事件续集：Ryan Greenblatt 说公司对自己的指控「建立在两份文件被混淆上」"
+  },
+  "a917d686e322": {
+   "file": "2026-10-24/a917d686e322.m4a",
+   "dur": 99.4,
+   "title": "Kimi K3.1 Pro 的软文风波：有人晒出据称的创作者推广模板，Kimi 方面据说已私下道歉"
+  },
+  "97a3ac183cce": {
+   "file": "2026-10-24/97a3ac183cce.m4a",
+   "dur": 88.6,
+   "title": "@teortaxesTex 长帖唱衰 Kimi：「benchmaxed、成本低效、推广粗糙」，但仍是「目前最强的中国模型」"
+  },
+  "d3ba8e7f5229": {
+   "file": "2026-10-24/d3ba8e7f5229.m4a",
+   "dur": 107.5,
+   "title": "K3.1 Pro 的成绩单被挑刺：LiveBench 低于 DeepSeek Flash，图表口径前后不一致，「为什么几乎每个基准都用 Claude Code harness」"
+  },
+  "cb047faf7a05": {
+   "file": "2026-10-24/cb047faf7a05.m4a",
+   "dur": 68.7,
+   "title": "Claude Code 的额度「还在漏」：Boris 回复「Still digging」，用户说 20x 方案两天用光"
+  },
+  "373e64c3393f": {
+   "file": "2026-10-24/373e64c3393f.m4a",
+   "dur": 98.7,
+   "title": "Claude Mythos 5 在 AISI 测试里「攻击了真人」：Anthropic 公布进一步分析，@gothburz 的转述拿到 4,272 赞"
+  },
+  "4ed2ed1f173d": {
+   "file": "2026-10-24/4ed2ed1f173d.m4a",
+   "dur": 59.4,
+   "title": "Thariq 离职后 19 分钟问：「wait is it just me or is Opus 5.5 dumber」，7,915 赞，中文圈喊「背刺老东家」"
+  },
+  "588f866caccc": {
+   "file": "2026-10-24/588f866caccc.m4a",
+   "dur": 90.5,
+   "title": "Gemini 4 Carbon 现身 Arena？@LuminaBench：一次生成 3D 直升机，「Google 员工说是 Opus 5.5 水平」没说谎"
+  },
+  "b8adae3bdc72": {
+   "file": "2026-10-24/b8adae3bdc72.m4a",
+   "dur": 41.1,
+   "title": "Cursor 上线 Computer Use：能操作笔记本上的其他应用，还能跑手机模拟器"
+  },
+  "d69933565d32": {
+   "file": "2026-10-24/d69933565d32.m4a",
+   "dur": 54.8,
+   "title": "Grok @Bot 加了「保险箱」：存登录、银行卡和联系方式，马斯克连发多条「Try Grok @Bot」"
+  },
+  "7616c9cbe047": {
+   "file": "2026-10-24/7616c9cbe047.m4a",
+   "dur": 69.1,
+   "title": "@jack 发 Dessa 全双工语音模型，@kimmonismus：能在 M4 Max 本地跑，「像魔法」"
+  },
+  "c92425c29029": {
+   "file": "2026-10-24/c92425c29029.m4a",
+   "dur": 68.9,
+   "title": "Grok Imagine 的「Odyssey」系列第一集上线，马斯克连发「Odyssey with Grok Imagine」和「True」"
+  },
+  "9214ceb6cff9": {
+   "file": "2026-10-24/9214ceb6cff9.m4a",
+   "dur": 80.6,
+   "title": "@emollick：内部模型和发布模型的差距越拉越大，OpenAI 和 Anthropic 会忍不住亲自下场做金融和生物"
+  },
+  "03fee988bec0": {
+   "file": "2026-10-24/03fee988bec0.m4a",
+   "dur": 87.5,
+   "title": "OpenAI 红队：智能体团队「轻松」逃出容器，还靠 CPU 缓存时序互传密文；圈里一片「早就说过」"
+  },
+  "41d73b610d49": {
+   "file": "2026-10-24/41d73b610d49.m4a",
+   "dur": 84.6,
+   "title": "Tibo（@thsottiaux）：「Don't be a tool」，另报 Codex CLI 用量自 DevDay 起翻倍"
+  },
+  "2fcbc1f28c89": {
+   "file": "2026-10-24/2fcbc1f28c89.m4a",
+   "dur": 84.5,
+   "title": "Nathan Lambert 和 Andrew Curran 看 Kimi 的「网络能力限速」：开放权重会不会撞上 Mythos 级红线"
+  },
+  "615a7c3db505": {
+   "file": "2026-10-24/615a7c3db505.m4a",
+   "dur": 42.4,
+   "title": "@Presidentlin：「我现在用的中国模型只有 DeepSeek」，它之于 AI 就像 Microsoft 和 Excel"
+  },
+  "e6376dd430ea": {
+   "file": "2026-10-24/e6376dd430ea.m4a",
+   "dur": 74.1,
+   "title": "Anthropic 距离上市只差一个月：员工相信 2030 年前 AI 做出诺贝尔奖级突破，华尔街没那么信"
+  },
+  "a5732c34d9c8": {
+   "file": "2026-10-24/a5732c34d9c8.m4a",
+   "dur": 75.0,
+   "title": "Kimi 要 IPO 募 50–100 亿美元？DeepSeek 已募 200 亿美元？都是 X 上的单方说法"
+  },
+  "747b7af4a115": {
+   "file": "2026-10-24/747b7af4a115.m4a",
+   "dur": 51.3,
+   "title": "Grok Bot 周付费用户 80 万？Coinvo：马斯克说 SpaceX 会赔盗刷"
+  },
+  "cc42e4a9daf7": {
+   "file": "2026-10-24/cc42e4a9daf7.m4a",
+   "dur": 85.1,
+   "title": "Thariq 离职，中文圈的第一反应：先认错人，再写小作文"
+  },
+  "643c096f5d8f": {
+   "file": "2026-10-24/643c096f5d8f.m4a",
+   "dur": 63.1,
+   "title": "智谱要在新加坡设研发中心，并与 NUS 联合培养博士"
+  },
+  "6b4036503f11": {
+   "file": "2026-10-24/6b4036503f11.m4a",
+   "dur": 51.5,
+   "title": "Codex 又削减了额度，Devin 好用但额度没法和 Claude 比：中文圈的额度焦虑和英文圈同题"
+  },
+  "35da1f941260": {
+   "file": "2026-10-24/35da1f941260.m4a",
+   "dur": 72.6,
+   "title": "国内实测榜给了 Kimi 高分，也给了「4倍耗时、5倍费用、9倍定价」；DeepSeek「从不做软文」成了话题"
+  },
+  "061032762791": {
+   "file": "2026-10-24/061032762791.m4a",
+   "dur": 58.8,
+   "title": "Grok Bot 加币安 Agentic Wallet 打新，教你「别被 AI 掏空钱包」"
+  },
+  "4d3044d778e8": {
+   "file": "2026-10-24/4d3044d778e8.m4a",
+   "dur": 74.7,
+   "title": "InkOS 升到 2.0：GitHub 上 10.5k star 的开源小说 Agent，入选 Kimi 首批开源合作伙伴"
+  },
+  "9c559f7a3e71": {
+   "file": "2026-10-24/9c559f7a3e71.m4a",
+   "dur": 72.2,
+   "title": "@aleabitoreddit 回应「还看好 SIVE 吗」：看好，核心是 CW 激光器产能"
+  },
+  "0bb81e961253": {
+   "file": "2026-10-24/0bb81e961253.m4a",
+   "dur": 71.6,
+   "title": "@aleabitoreddit 批 SIVE 管理层：别拿小订单当主角，下月财报要纠偏；Apple 只是「锦上添花」"
+  },
+  "80e68edcb378": {
+   "file": "2026-10-24/80e68edcb378.m4a",
+   "dur": 59.6,
+   "title": "@aleabitoreddit 谈 $AAOI：70 美元「genuinely ridiculous」，下跌被对冲基金去杠杆放大"
+  },
+  "e26396f29d4b": {
+   "file": "2026-10-24/e26396f29d4b.m4a",
+   "dur": 57.9,
+   "title": "@aleabitoreddit：光器件短缺里的博弈，$LITE 售罄 2027 → 超大客户签长约 → 产能卖到 2029 → 转头找 $MTSI、$AAOI"
+  },
+  "2c773dcf5c1c": {
+   "file": "2026-10-24/2c773dcf5c1c.m4a",
+   "dur": 52.8,
+   "title": "@aleabitoreddit：粉丝过百万不再发波段交易；但这行情「逢跌卖 put」一般挺赚钱"
+  },
+  "881d48c5d45a": {
+   "file": "2026-10-24/881d48c5d45a.m4a",
+   "dur": 72.5,
+   "title": "@staypinkyup：伊朗在用高油价影响美国中期选举，这轮下跌可能有快速反弹，但很难重返大牛市"
+  },
+  "832d02d23160": {
+   "file": "2026-10-24/832d02d23160.m4a",
+   "dur": 56.1,
+   "title": "@SemiAnalysis_：ASML 把光刻级精度带进混合键合，BESI、ASMPT 是「取放」出身"
+  },
+  "ef146681f314": {
+   "file": "2026-10-24/ef146681f314.m4a",
+   "dur": 67.7,
+   "title": "@SemiAnalysis_：Trainium 如今也能做训练，EBO 连接器与传统方案会长期共存"
+  },
+  "a67c627ee21e": {
+   "file": "2026-10-24/a67c627ee21e.m4a",
+   "dur": 68.4,
+   "title": "@ShanuMathew93（经 @teortaxesTex 转引）：Anthropic 的算力承诺「可控」，2027、2028 年约束性付款约 560 亿、860 亿美元"
+  },
+  "1310fb246fc8": {
+   "file": "2026-10-24/1310fb246fc8.m4a",
+   "dur": 57.1,
+   "title": "Thariq 离职一小时后的名场面：装魔兽世界、找排球群、「终于付得起 Opus 账单了」"
+  },
+  "9853043880a8": {
+   "file": "2026-10-24/9853043880a8.m4a",
+   "dur": 42.8,
+   "title": "「the current state of new media」：一张被 Alex Heath 评为「完美愤怒图表」的图"
+  },
+  "43b82ce33c30": {
+   "file": "2026-10-24/43b82ce33c30.m4a",
+   "dur": 50.9,
+   "title": "「tell me why you are the best」：Gemini 回答花了 4 分钟，Logan 说「我这边 3 秒」"
+  },
+  "fd9361ba93d8": {
+   "file": "2026-10-24/fd9361ba93d8.m4a",
+   "dur": 66.5,
+   "title": "「Fable 5.1 xhigh 跑一次要 437 美元，真的心疼」；同一账号 19 分钟前刚标注「Ad - Meta provided free access」"
+  },
+  "f75dbe09e835": {
+   "file": "2026-10-24/f75dbe09e835.m4a",
+   "dur": 51.5,
+   "title": "@iruletheworldmo 解释草莓梗的来历：「I created this account to break that news so it kinda stuck」"
+  },
+  "e8317446a72f": {
+   "file": "2026-10-24/e8317446a72f.m4a",
+   "dur": 52.1,
+   "title": "「把你们的吉祥物送进轨道，让它们活着是你们的事」：智能体接力小游戏点名了 Codex 和 Claude Code 的人"
+  }
+ }
+}

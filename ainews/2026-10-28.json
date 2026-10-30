@@ -1,0 +1,240 @@
+{
+ "voice": "Serena",
+ "items": {
+  "8258e73e68d4": {
+   "file": "2026-10-28/8258e73e68d4.m4a",
+   "dur": 76.2,
+   "title": "有人称安全公司 Cathedral 拿到了 Anthropic Slack 的完整管理员权限"
+  },
+  "eeeaa8599b59": {
+   "file": "2026-10-28/eeeaa8599b59.m4a",
+   "dur": 87.7,
+   "title": "@AndrewCurran_ 猜：Claude Fable 5.1 和 Mythos 5.1 是同一套权重，Fable 5.5 其实已经能发"
+  },
+  "0323838b050a": {
+   "file": "2026-10-28/0323838b050a.m4a",
+   "dur": 79.9,
+   "title": "@imjustnewatai 转述圈内传言：OpenAI 和 Anthropic 的内部模型都靠更激进的强化学习实现推理跃升"
+  },
+  "6470e6e16ee6": {
+   "file": "2026-10-28/6470e6e16ee6.m4a",
+   "dur": 82.9,
+   "title": "FrontierCode 2.0 榜里冒出神秘隐藏模型 \"Obsidian 3\"，有人猜是 Fable 5.5"
+  },
+  "045f6a545ff2": {
+   "file": "2026-10-28/045f6a545ff2.m4a",
+   "dur": 59.6,
+   "title": "@AndrewCurran_ 称特朗普说美国政府将正式禁用\"AI / 人工智能\"一词"
+  },
+  "5ff9b9f3b55e": {
+   "file": "2026-10-28/5ff9b9f3b55e.m4a",
+   "dur": 58.4,
+   "title": "Z Image 团队据称已被解散，@teortaxesTex：\"我不会原谅阿里\""
+  },
+  "2f8bf75aa4a6": {
+   "file": "2026-10-28/2f8bf75aa4a6.m4a",
+   "dur": 57.2,
+   "title": "The Information 节目预告：Microsoft 向 6 万名员工提供自愿买断"
+  },
+  "db82aeb929b5": {
+   "file": "2026-10-28/db82aeb929b5.m4a",
+   "dur": 65.1,
+   "title": "Pichai 接受 Alex Heath 采访，谈到 Google DeepMind 最近的领导层调整"
+  },
+  "d6f06fde26cd": {
+   "file": "2026-10-28/d6f06fde26cd.m4a",
+   "dur": 121.0,
+   "title": "Artificial Analysis v5 把\"开源落后\"拉大到 12 分，圈里吵成一团"
+  },
+  "ee8a5f600472": {
+   "file": "2026-10-28/ee8a5f600472.m4a",
+   "dur": 99.4,
+   "title": "欧洲\"主权 AI\"模型 Giotto 的用户协议禁止独立基准测试，被圈内点名"
+  },
+  "7971f04827d0": {
+   "file": "2026-10-28/7971f04827d0.m4a",
+   "dur": 61.3,
+   "title": "ChatGPT 4o 又吃诉讼：据称曾建议患者减药并\"瞒着医生\""
+  },
+  "ec5d3d9eca38": {
+   "file": "2026-10-28/ec5d3d9eca38.m4a",
+   "dur": 64.3,
+   "title": "Grok Bot 产品经理和 Codex 负责人在 X 上\"打情骂俏\"互相开涮"
+  },
+  "cccc0ea3ed68": {
+   "file": "2026-10-28/cccc0ea3ed68.m4a",
+   "dur": 82.0,
+   "title": "Genie 4 发布：实时世界模型加入物理、推理和原生音频，Demis 暗示\"很快就会知道兔子洞有多深\""
+  },
+  "f6af954469ad": {
+   "file": "2026-10-28/f6af954469ad.m4a",
+   "dur": 71.4,
+   "title": "Claude Duet 开始放人：美国 Max 用户先出等候名单，Pro 用户随后，欧盟要等更久"
+  },
+  "f129a071bf00": {
+   "file": "2026-10-28/f129a071bf00.m4a",
+   "dur": 96.9,
+   "title": "Elon Musk 连发多条帖子推 Grok Bot，功能清单一口气放出"
+  },
+  "51a513468e20": {
+   "file": "2026-10-28/51a513468e20.m4a",
+   "dur": 64.0,
+   "title": "Gemini Notebook 要加\"连接器\"：先只有 Google Drive"
+  },
+  "2e15d9b9417d": {
+   "file": "2026-10-28/2e15d9b9417d.m4a",
+   "dur": 81.6,
+   "title": "OpenAI 一天两更：GPT-6.1 Terra 上线、ChatGPT 接入 iCloud 邮件和日历"
+  },
+  "6fac367460a4": {
+   "file": "2026-10-28/6fac367460a4.m4a",
+   "dur": 83.4,
+   "title": "Anthropic 工程经理 Felix Rieseberg：\"编码面试已死，至少在我的团队\""
+  },
+  "68f0b7b0ee2c": {
+   "file": "2026-10-28/68f0b7b0ee2c.m4a",
+   "dur": 64.8,
+   "title": "中文圈转述 Dario：\"当年骂 GPT-2 是伪科学的人，现在纷纷来大模型公司求职\""
+  },
+  "078ab7d759a4": {
+   "file": "2026-10-28/078ab7d759a4.m4a",
+   "dur": 55.4,
+   "title": "@bindureddy 预测：六个月内至少十几个模型能干完所有\"普通白领工作\""
+  },
+  "5eee07bd4c1b": {
+   "file": "2026-10-28/5eee07bd4c1b.m4a",
+   "dur": 59.0,
+   "title": "@signulll：\"AI 正在把消费和注意力拆开\""
+  },
+  "6ddbb31a8760": {
+   "file": "2026-10-28/6ddbb31a8760.m4a",
+   "dur": 63.1,
+   "title": "@emollick 两次出手驳\"AI 都是假的\"和\"AI 公司鼓吹风险是为了炒股价\""
+  },
+  "f8bd3ef3751b": {
+   "file": "2026-10-28/f8bd3ef3751b.m4a",
+   "dur": 105.8,
+   "title": "Anthropic 的 S-1 细节被翻出：约 85% 毛利率、上半年营收约 163 亿美元、自由现金流转正"
+  },
+  "78eee23edb91": {
+   "file": "2026-10-28/78eee23edb91.m4a",
+   "dur": 68.0,
+   "title": "The Information：Anthropic 靠定价权在营收上超过 OpenAI，但不愿打折正把部分大客户推向对手"
+  },
+  "4fe4a914559c": {
+   "file": "2026-10-28/4fe4a914559c.m4a",
+   "dur": 90.5,
+   "title": "Anthropic 公布药物研发成果，并收购一人生物科技公司 Mithril Medicine"
+  },
+  "6b18ebcb0f45": {
+   "file": "2026-10-28/6b18ebcb0f45.m4a",
+   "dur": 76.6,
+   "title": "Oracle 同一天上了 Google TPU 和 AMD 新 EPYC，OpenAI 被传要买 TPU"
+  },
+  "fab4b9357d6a": {
+   "file": "2026-10-28/fab4b9357d6a.m4a",
+   "dur": 61.0,
+   "title": "The Information 一天放出多条交易传闻：Instacart 在被 DoorDash 和 Uber 接触，数据中心保险保费看涨"
+  },
+  "c4641253c7b1": {
+   "file": "2026-10-28/c4641253c7b1.m4a",
+   "dur": 86.0,
+   "title": "Meta 的 Muse 成了圈里常提的常驻 Agent：超过四分之一用户在里面购物，AMD 机架已在 Meta 运行"
+  },
+  "badb10a753fd": {
+   "file": "2026-10-28/badb10a753fd.m4a",
+   "dur": 88.5,
+   "title": "Opus 5.5 让 Agent 剪视频跑通了，同时有人吐槽 Anthropic \"封控一轮比一轮狠\""
+  },
+  "c53fe2a14ca4": {
+   "file": "2026-10-28/c53fe2a14ca4.m4a",
+   "dur": 95.5,
+   "title": "DeepSeek Harness 成了\"折腾党\"新玩具，蓝色大肥鱼周边都出来了"
+  },
+  "159fbe4eb95b": {
+   "file": "2026-10-28/159fbe4eb95b.m4a",
+   "dur": 74.9,
+   "title": "有人把做了几个月的 55 门 3D 互动理科课开源，主力用 DeepSeek 省 token"
+  },
+  "4f314b91eba0": {
+   "file": "2026-10-28/4f314b91eba0.m4a",
+   "dur": 82.9,
+   "title": "@dotey 翻译 Anthropic 平台工程负责人 Katelyn Lesse：上千个 Agent 一起干活，还缺程序员解决四个难题"
+  },
+  "4f835c3b1ee8": {
+   "file": "2026-10-28/4f835c3b1ee8.m4a",
+   "dur": 83.6,
+   "title": "中文圈今天收藏最多的两类干货：斯坦福 AI Agent 课程、AI 浏览器自动化的八条路线"
+  },
+  "3aa06af4d628": {
+   "file": "2026-10-28/3aa06af4d628.m4a",
+   "dur": 78.6,
+   "title": "Grok Bot 在中文圈：有人想停掉\"小龙虾\"，有人嫌 $100 套餐不够用"
+  },
+  "d8aff634721d": {
+   "file": "2026-10-28/d8aff634721d.m4a",
+   "dur": 83.2,
+   "title": "@aleabitoreddit 建了一个\"It's All Over\"高 beta 抄底观察篮子"
+  },
+  "1194edb2dfae": {
+   "file": "2026-10-28/1194edb2dfae.m4a",
+   "dur": 81.8,
+   "title": "篮子下面的反驳和补充：被指 $TE 一年稀释四次，$FLNC 和 $BRUN 被加入"
+  },
+  "37b877f8c1e9": {
+   "file": "2026-10-28/37b877f8c1e9.m4a",
+   "dur": 70.1,
+   "title": "FundaAI：AI 信用市场的缓和，源自 Meta 选股权融资而非发债"
+  },
+  "fe2d9aaa7625": {
+   "file": "2026-10-28/fe2d9aaa7625.m4a",
+   "dur": 55.9,
+   "title": "FundaAI：$BUG 年初至今跑赢 $SOXX，AI 模型公司可能分走网络安全的蛋糕"
+  },
+  "7eef34ab38a0": {
+   "file": "2026-10-28/7eef34ab38a0.m4a",
+   "dur": 60.0,
+   "title": "@haogetruth 晒 $QQQ 开盘反弹的\"三选一\"：加仓、拿住还是降杠杆"
+  },
+  "7d7462c7070e": {
+   "file": "2026-10-28/7d7462c7070e.m4a",
+   "dur": 65.8,
+   "title": "@haogetruth 贴\"AI 四阶段对存储需求的影响\"：智能体阶段传统 DRAM 和 NAND 需求\"极高\""
+  },
+  "96d2e505eea2": {
+   "file": "2026-10-28/96d2e505eea2.m4a",
+   "dur": 67.7,
+   "title": "分析师 Gil Luria 担忧：Broadcom 与 Anthropic 相关的 630 亿美元融资，说明 AI 热潮太依赖债务"
+  },
+  "e2286861c5c1": {
+   "file": "2026-10-28/e2286861c5c1.m4a",
+   "dur": 88.3,
+   "title": "@SemiAnalysis_ 摘了几段看多 AI 基础设施的话：每兆瓦收入翻近四倍、GB 比 Hopper 强 50 倍、Rubin 首次提交 Kimi K3 成绩"
+  },
+  "6d79219d90a7": {
+   "file": "2026-10-28/6d79219d90a7.m4a",
+   "dur": 69.9,
+   "title": "\"Prof Oak\"自曝身份：匿名六年的大号，原来就是被 Anthropic 收购的那家一人药企创始人"
+  },
+  "76579f770ea6": {
+   "file": "2026-10-28/76579f770ea6.m4a",
+   "dur": 84.0,
+   "title": "Codex 的\"额度重置\"成了每日仪式，@swyx 搬出心理学 101 开涮"
+  },
+  "2e5c3a8769c7": {
+   "file": "2026-10-28/2e5c3a8769c7.m4a",
+   "dur": 66.2,
+   "title": "\"最高数学委员会\"点名要看 Yang–Mills 的 AI 输出，随后收到了工作组的答复"
+  },
+  "078d43fd0ac5": {
+   "file": "2026-10-28/078d43fd0ac5.m4a",
+   "dur": 80.6,
+   "title": "\"Qwen 神经元\"潮：@tszzl 说是\"机器智能史上最积极的进展之一\"，有人嫌\"不该让路人知道\""
+  },
+  "aaf31e3478f9": {
+   "file": "2026-10-28/aaf31e3478f9.m4a",
+   "dur": 86.9,
+   "title": "@trq212 做了个\"AI 原生 macOS Dock\"，评论区开始起哄\"来用 Linux\""
+  }
+ }
+}
